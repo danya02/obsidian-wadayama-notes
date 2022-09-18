@@ -1,5 +1,5 @@
 ---
-alias: ["Kitagawa-san", "Kitagawa Nobuske"]
+alias: ["Kitagawa-san", "Kitagawa Nobuske", "landlord"]
 ---
 
 The name is Nobuske and the surname is Kitagawa.
@@ -8,11 +8,11 @@ Landlord of our [[Apartment]]. Seems suspicious of everything.
 
 Looks 65 years old, might be about 50.
 
-Does not like Mike's name.
+Does not like [[Mike Bequith|Mike]]'s name.
 
-Knows me as Haruto.
+Knows [[Akito Edmunds|me]] as Haruto.
 
-Arrived here from Kyoto. Neighbors do not like him and somebody wants to attack him. Says this confidently, but hides nervousness.
+Arrived [[Wadayama|here]] from [[Kyoto]]. Neighbors do not like him and somebody wants to attack him. Says this confidently, but hides nervousness.
 
 Showed us [[Nobuske's Threat]].
 Gave us [[Nobuske's Quest]].

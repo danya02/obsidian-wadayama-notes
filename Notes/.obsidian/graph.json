@@ -8,6 +8,13 @@
   "collapse-color-groups": true,
   "colorGroups": [
     {
+      "query": "tag:#player",
+      "color": {
+        "a": 1,
+        "rgb": 10879231
+      }
+    },
+    {
       "query": "path:Places",
       "color": {
         "a": 1,
@@ -48,7 +55,7 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1.64957264957265,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.521367521367521,
   "repelStrength": 8.37606837606838,
   "linkStrength": 1,

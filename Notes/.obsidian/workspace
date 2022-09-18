@@ -4,12 +4,62 @@
     "type": "split",
     "children": [
       {
-        "id": "4398a5fdd92e2d02",
-        "type": "leaf",
-        "state": {
-          "type": "graph",
-          "state": {}
-        }
+        "id": "3e0e81efa863d824",
+        "type": "split",
+        "children": [
+          {
+            "id": "f97e0f3bb11be030",
+            "type": "leaf",
+            "dimension": 57.4167507568113,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "People/Players/Akito Edmunds.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "6867121c7dc87081"
+          },
+          {
+            "id": "cd9ca059e18917d9",
+            "type": "leaf",
+            "dimension": 42.583249243188696,
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "People/Players/Akito Edmunds.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.58435811805675,
+                  "close": true
+                }
+              }
+            },
+            "group": "6867121c7dc87081"
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -65,6 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "People/Players/Akito Edmunds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,6 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "People/Players/Akito Edmunds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -90,19 +142,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 361.5
   },
-  "active": "4398a5fdd92e2d02",
+  "active": "f97e0f3bb11be030",
   "lastOpenFiles": [
-    "People/Nobuske.md",
-    "Times/Day 1.md",
-    "Things/Nobuske's Threat.md",
+    "Things/Textile Kit.md",
     "Places/Wadayama.md",
-    "Places/Unusual house.md",
-    "Places/Supermarket.md",
     "Places/School.md",
-    "Places/My flat.md",
+    "Places/River Katsura.md",
     "Places/Mayor's Office.md",
-    "Places/Apartment.md"
+    "Places/Main road.md",
+    "People/Nobuske.md",
+    "People/French tourist.md",
+    "People/Kamada Itsuke.md",
+    "People/Supermarket shopkeeper.md"
   ]
 }
