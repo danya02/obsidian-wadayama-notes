@@ -10,4 +10,4 @@ Has a single [[Supermarket]] and the [[School|Primary School]] for both the loca
 North is [[Nantan]]. South is [[Kyoto]].
 Contains the [[River Katsura]], which is in a valley formed by [[Mt Hakkai]].
 
-![[Wadayama Map as of Session 1.png]]
+![[Wadayama Map as of Session 2.png]]

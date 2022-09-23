@@ -4,62 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3e0e81efa863d824",
-        "type": "split",
-        "children": [
-          {
-            "id": "f97e0f3bb11be030",
-            "type": "leaf",
-            "dimension": 57.4167507568113,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "People/Players/Akito Edmunds.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "6867121c7dc87081"
-          },
-          {
-            "id": "cd9ca059e18917d9",
-            "type": "leaf",
-            "dimension": 42.583249243188696,
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "People/Players/Akito Edmunds.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": false,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": false,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.58435811805675,
-                  "close": true
-                }
-              }
-            },
-            "group": "6867121c7dc87081"
+        "id": "fec5373b7d32948b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Places/Apartment.md",
+            "mode": "source",
+            "source": false
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -86,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "kyoto",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/Players/Akito Edmunds.md",
+                "file": "Places/Apartment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,29 +86,30 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/Players/Akito Edmunds.md",
+                "file": "Places/Apartment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 361.5
+    "width": 334.5
   },
-  "active": "f97e0f3bb11be030",
+  "active": "fec5373b7d32948b",
   "lastOpenFiles": [
-    "Things/Textile Kit.md",
-    "Places/Wadayama.md",
-    "Places/School.md",
-    "Places/River Katsura.md",
-    "Places/Mayor's Office.md",
+    "Places/Camping site.md",
+    "Places/Hospital.md",
+    "Places/Izakaya.md",
+    "Places/Kagamihara Yuma.md",
     "Places/Main road.md",
-    "People/Nobuske.md",
-    "People/French tourist.md",
-    "People/Kamada Itsuke.md",
-    "People/Supermarket shopkeeper.md"
+    "Places/Mayor's Office.md",
+    "Places/Mansion.md",
+    "Places/Mt Hakkai.md",
+    "Places/Mt Hakkai Road.md",
+    "Places/My flat.md"
   ]
 }

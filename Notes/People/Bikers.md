@@ -2,7 +2,7 @@
 alias: []
 ---
 
-We met them on [[Wadayama]]'s [[Main road]] going north towards [[Nantan]] on the [[Day 1|First day]].
+We met them on [[Wadayama]]'s [[Main road]] going north towards [[Nantan]] on the [[Session 1|First day]].
 They were playing Chinese dubstep.
 Had LED biker's jackets with Chinese traditional elements.
 

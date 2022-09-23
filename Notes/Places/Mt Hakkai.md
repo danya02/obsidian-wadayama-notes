@@ -1,4 +1,5 @@
 ---
-alias: ["Mountain"]
+alias: ["Mountain", "Mountaintop"]
 ---
-There is camping there. [[French tourist]] might be there.
+
+Refers to the top of the mountain, not to the other places reachable with the [[Mt Hakkai Road]].

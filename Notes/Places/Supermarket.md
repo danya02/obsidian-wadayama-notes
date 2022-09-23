@@ -9,5 +9,5 @@ Sometimes has orders delivered to it. [[Nobuske]] has asked us to get his order 
 
 Chain supermarket of an unknown chain.
 
-On [[Day 1]], saw [[French tourist]] there.
+On [[Session 1]], saw [[Martin]] there.
 

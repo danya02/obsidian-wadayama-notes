@@ -12,6 +12,10 @@ Owns the [[Textile Kit]], which can be used to craft clothes and/or electronics.
 
 The clothing he wears is of a semi-neo-traditional style but has been Boston-patched to include some jeans-like fabric. A spot on his sleeve contains a small Internet-connected circuit that can be used for quick two-way communication with his other electronic devices. 
 
+On the [[Session 2|First evening]], spent 3Y for beer at the [[Izakaya]]. Total as of [[Session 2]]: 88Y.
+
+
+
 ![[Akito Edmunds' Charsheet.png]]
 
 ![[Akito Edmunds' Powers.png]]

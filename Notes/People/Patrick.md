@@ -1,0 +1,1 @@
+Dark-skinned with bright-yellow clothes. 
