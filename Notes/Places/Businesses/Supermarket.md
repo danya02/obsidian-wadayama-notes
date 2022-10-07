@@ -2,7 +2,7 @@
 alias: ["K-Green"]
 ---
 
-[[Supermarket shopkeeper]] is here.
+[[Takeda Yuno]] is here.
 
 Also has the [[Mayor's Office]] and the [[Library]].
 Sometimes has orders delivered to it. [[Nobuske]] has asked us to get his order from it.

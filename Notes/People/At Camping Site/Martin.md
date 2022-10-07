@@ -14,3 +14,9 @@ They are two students, friends, they wanted to go to Thailand but there is a sto
 
 Martin adds that in the fog, he saw a real ghost, but Patrick says he'd read too much folklore and went into too many forests.
 
+Asked about talking to locals. They say it's difficult and they don't manage with the translator.
+
+Asked about the [[Mystery woman]]. Patrick said he'd went to the [[Izakaya]] but people looked at her badly.
+Patrick said he saw a girl on the roads (often at the [[Shrine]]), and he tried to contact her but she always shyly went away.
+
+Said that they would stay until the [[Festival]]. They have a powerful laptop that they use to work.

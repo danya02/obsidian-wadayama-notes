@@ -1,5 +1,5 @@
 ---
-alias: ["Takeda-san", "Yuno"]
+alias: ["Takeda-san", "Yuno", "Supermarket Shopkeeper"]
 ---
 The name is Yuno and the surname is Takeda.
 
@@ -8,4 +8,4 @@ Was surprised that [[Nobuske]] was able to rent out the new place and that someo
 
 Asked her why we rented so cheap. She said "everything in the city is so cheap. There is no rail for many years and everything with no rail access costs less."
 Asked about interesting places, pointed to [[Mt Hakkai]]. There is camping there, said [[Martin]] is there.
-[[Izakaya]] is over the river.
+

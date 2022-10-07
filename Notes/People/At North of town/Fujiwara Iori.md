@@ -4,6 +4,8 @@ alias: ["Fujiwara-san", "Iori", "Drunk man"]
 
 The surname is Fujiwara and the first name is Iori.
 
+Probably lives at the [[Fujiwara Residence]].
+
 Over 40, somewhat fat, does not seem to care about his appearance. His face shows a kind of universal boredom we hadn't seen before. Has an empty beer glass. Is ever so slightly drunk.
 
 The man was happy to see new people because nothing ever happens and he always sees the same faces.
