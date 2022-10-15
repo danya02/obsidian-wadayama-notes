@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#player",
@@ -48,18 +48,25 @@
         "a": 1,
         "rgb": 5431473
       }
+    },
+    {
+      "query": "#importance:low",
+      "color": {
+        "a": 1,
+        "rgb": 2105376
+      }
     }
   ],
   "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1.64957264957265,
-  "collapse-forces": false,
+  "lineSizeMultiplier": 0.77008547008547,
+  "collapse-forces": true,
   "centerStrength": 0.500801282051282,
-  "repelStrength": 8.37606837606838,
+  "repelStrength": 15.2136752136752,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.5843581180567515,
+  "scale": 0.2854858083337795,
   "close": false
 }

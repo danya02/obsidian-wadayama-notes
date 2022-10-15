@@ -2,6 +2,8 @@
 alias: ["Kagamihara-san", "Yuma"]
 ---
 
+#employed 
+
 The surname is Kagamihara and the first name is Yuma.
 
 Is the owner of the [[Camping site]].

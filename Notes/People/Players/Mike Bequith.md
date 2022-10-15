@@ -10,6 +10,12 @@ On the [[Session 3|Second evening]], helped [[Kagamihara Yuma]] with the gazebo 
 
 Maybe used the mystery ability on the [[Mt Hakkai|Mountaintop]].
 
-Has basic (d4) hacking ability, but failed to hack the [[Mayor's Office]], using two Bennies in the process.
+Has basic (d4) hacking ability, but failed to hack the Mayor's Office, using two Bennies in the process.
 
 Owns a bug/tracking device.
+Has Hindrance: Convict.
+
+Notice is d8.
+Common Knowledge is d8.
+
+Has some kind of neural implant.

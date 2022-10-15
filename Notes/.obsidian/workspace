@@ -10,23 +10,23 @@
           {
             "id": "f311c0e93a685bd5",
             "type": "leaf",
-            "dimension": 64.4803229061554,
+            "dimension": 50.756811301715445,
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           },
           {
             "id": "d54616a4e267b5d2",
             "type": "leaf",
-            "dimension": 35.51967709384461,
+            "dimension": 49.24318869828456,
             "state": {
               "type": "localgraph",
               "state": {
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
-                  "localJumps": 2,
+                  "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
@@ -45,8 +45,8 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6989606412938217,
-                  "close": false
+                  "scale": 0.8360386601669876,
+                  "close": true
                 }
               }
             }
@@ -79,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "igaras",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -125,7 +125,7 @@
               "type": "outgoing-link",
               "state": {
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -137,15 +137,15 @@
   },
   "active": "f311c0e93a685bd5",
   "lastOpenFiles": [
-    "Untitled 1.md",
-    "Meta/Inari.md",
+    "Places/Land features/Mt Hakkai.md",
+    "Places/Businesses/Supermarket.md",
+    "Places/Land features/Main road.md",
+    "Places/Land features/Wadayama.md",
     "Places/Businesses/Mayor's Office.md",
-    "Places/Housing/My flat.md",
-    "People/Players/Tadashi Hamada.md",
-    "People/Players/Mike Bequith.md",
-    "People/At North of town/Inoue.md",
-    "Places/Housing/Igarashi Mansion.md",
-    "Places/Housing/Kamada Residence.md",
-    "Places/Housing/Fujiwara Residence.md"
+    "Places/Businesses/Izakaya.md",
+    "People/Roaming/Kyoko.md",
+    "Places/Businesses/School.md",
+    "People/Roaming/Liao Tingni.md",
+    "Places/Housing/Apartment.md"
   ]
 }

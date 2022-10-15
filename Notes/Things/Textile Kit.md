@@ -2,6 +2,8 @@
 alias: []
 ---
 
+#importance_low #utility_use_anywhere
+
 Allows someone skilled at sewing (like [[Akito Edmunds|Akito]]) craft clothes, and can be combined with electronics knowledge to build electronic circuits on cloth.
 
 Contents:

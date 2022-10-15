@@ -1,13 +1,14 @@
 ---
 alias: ["Bartender"]
 ---
+#employed 
 
 Works at the bar at [[Izakaya|The Terminus]].
 [[Kyoko]] seems to be her daughter.
 
 [[Tadashi Hamada|Tadashi-san]] told her that we are new here.
 She was sorta distracted by her work.
-Told her that we stay at [[Apartment]], she is sorta surprised by this.
+Told her that we stay at the Apartment Building, she is sorta surprised by this.
 
 Recommended the [[Festival]] to us because we're new.
 Asked about where the crops come from, told that it comes from the neighboring towns.
