@@ -1,5 +1,6 @@
 ---
 alias: []
+is_at: [[Apartment]]
 ---
 
 #utility_unknown

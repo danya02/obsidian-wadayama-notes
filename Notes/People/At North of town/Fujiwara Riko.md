@@ -1,3 +1,7 @@
+---
+partner: [[Fujiwara Iori]]
+dwelling: [[Fujiwara Residence]]
+---
 #employed 
 The name is Riko and the surname is Fujiwara.
 

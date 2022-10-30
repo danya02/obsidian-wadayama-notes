@@ -1,0 +1,249 @@
+{
+  "addDendronNotes": false,
+  "addDateNotes": false,
+  "aliasesInIndex": false,
+  "alphaSortAsc": false,
+  "altLinkFields": [],
+  "CSVPaths": "",
+  "createIndexIndent": "  ",
+  "dateFormat": "YYYY-MM-DD",
+  "dateNoteFormat": "yyyy-MM-dd",
+  "dateNoteField": "next",
+  "dataviewNoteField": "up",
+  "dateNoteAddMonth": "",
+  "dateNoteAddYear": "",
+  "debugMode": "WARN",
+  "dendronNoteDelimiter": ".",
+  "dendronNoteField": "up",
+  "dvWaitTime": 5000,
+  "enableAlphaSort": true,
+  "enableRelationSuggestor": true,
+  "fieldSuggestor": true,
+  "filterImpliedSiblingsOfDifferentTypes": false,
+  "jugglLayout": "hierarchy",
+  "limitWriteBCCheckboxes": [
+    "parent",
+    "partner",
+    "sibling",
+    "child",
+    "next_sibling",
+    "prev_sibling",
+    "employer",
+    "colleagues",
+    "employee",
+    "inhabitant",
+    "cohabitant",
+    "dwelling",
+    "location",
+    "nearby",
+    "contents",
+    "is_at",
+    "reachable",
+    "inside",
+    "within",
+    "adjacent",
+    "after",
+    "before"
+  ],
+  "CHECKBOX_STATES_OVERWRITTEN": false,
+  "gridDefaultDepth": 25,
+  "hierarchyNotes": [
+    ""
+  ],
+  "hierarchyNoteIsParent": false,
+  "HNUpField": "",
+  "indexNotes": [
+    ""
+  ],
+  "namingSystemField": "",
+  "namingSystemRegex": "",
+  "namingSystemSplit": ".",
+  "namingSystemEndsWithDelimiter": false,
+  "refreshOnNoteChange": false,
+  "useAllMetadata": true,
+  "openMatrixOnLoad": true,
+  "openDuckOnLoad": false,
+  "openDownOnLoad": true,
+  "parseJugglLinksWithoutJuggl": true,
+  "showNameOrType": true,
+  "showRelationType": true,
+  "regexNoteField": "",
+  "relSuggestorTrigger": "\\",
+  "rlLeaf": true,
+  "showAllPathsIfNoneToIndexNote": false,
+  "showAllAliases": true,
+  "showBCs": true,
+  "showBCsInEditLPMode": false,
+  "showRefreshNotice": true,
+  "showImpliedRelations": true,
+  "showTrail": true,
+  "showGrid": true,
+  "showJuggl": false,
+  "showPrevNext": true,
+  "sortByNameShowAlias": false,
+  "squareDirectionsOrder": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "limitTrailCheckboxes": [
+    "up",
+    "same",
+    "down",
+    "next",
+    "prev",
+    "parent",
+    "employer",
+    "dwelling",
+    "location",
+    "is_at",
+    "inside"
+  ],
+  "limitJumpToFirstFields": [
+    "parent",
+    "partner",
+    "sibling",
+    "child",
+    "next_sibling",
+    "prev_sibling",
+    "employer",
+    "colleagues",
+    "employee",
+    "inhabitant",
+    "cohabitant",
+    "dwelling",
+    "location",
+    "nearby",
+    "contents",
+    "is_at",
+    "inside",
+    "within",
+    "adjacent",
+    "after",
+    "before"
+  ],
+  "showAll": "All",
+  "noPathMessage": "This note has no real or implied parents",
+  "tagNoteField": "",
+  "threadIntoNewPane": false,
+  "threadingTemplate": "{{field}} of {{current}}",
+  "threadingDirTemplates": {
+    "up": "",
+    "same": "",
+    "down": "",
+    "next": "",
+    "prev": ""
+  },
+  "threadUnderCursor": false,
+  "trailSeperator": "→",
+  "treatCurrNodeAsImpliedSibling": false,
+  "trimDendronNotes": false,
+  "respectReadableLineLength": true,
+  "userHiers": [
+    {
+      "up": [
+        "parent"
+      ],
+      "same": [
+        "sibling"
+      ],
+      "down": [
+        "child"
+      ],
+      "next": [],
+      "prev": []
+    },
+    {
+      "up": [
+        "employer"
+      ],
+      "same": [
+        "colleagues"
+      ],
+      "down": [
+        "employee"
+      ],
+      "next": [],
+      "prev": []
+    },
+    {
+      "up": [],
+      "same": [
+        "partner"
+      ],
+      "down": [],
+      "next": [],
+      "prev": []
+    },
+    {
+      "up": [
+        "dwelling"
+      ],
+      "same": [
+        "cohabitant"
+      ],
+      "down": [
+        "inhabitant"
+      ],
+      "next": [],
+      "prev": []
+    },
+    {
+      "up": [
+        "is_at"
+      ],
+      "same": [
+        "nearby"
+      ],
+      "down": [
+        "contents"
+      ],
+      "next": [],
+      "prev": []
+    },
+    {
+      "up": [
+        "inside"
+      ],
+      "same": [
+        "adjacent"
+      ],
+      "down": [
+        "within"
+      ],
+      "next": [],
+      "prev": []
+    },
+    {
+      "up": [],
+      "same": [],
+      "down": [],
+      "next": [
+        "before"
+      ],
+      "prev": [
+        "after"
+      ]
+    }
+  ],
+  "writeBCsInline": false,
+  "showWriteAllBCsCmd": false,
+  "visGraph": "Force Directed Graph",
+  "visRelation": "Parent",
+  "visClosed": "Real",
+  "visAll": "All",
+  "wikilinkIndex": true,
+  "impliedRelations": {
+    "siblingIdentity": false,
+    "sameParentIsSibling": true,
+    "siblingsSiblingIsSibling": true,
+    "siblingsParentIsParent": true,
+    "parentsSiblingsIsParents": false,
+    "parentsParentsIsParent": false,
+    "cousinsIsSibling": false
+  },
+  "refreshOnNoteSave": true,
+  "showUpInJuggl": false
+}

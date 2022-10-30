@@ -1,5 +1,6 @@
 ---
 alias: ["European tourist", "French tourist"]
+dwelling: [[Camping site]]
 ---
 #importance_medium 
 

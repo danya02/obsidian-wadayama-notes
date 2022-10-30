@@ -1,7 +1,9 @@
 ---
 alias: ["Bartender"]
+employer: [[Izakaya]]
 ---
 #employed 
+
 
 Works at the bar at [[Izakaya|The Terminus]].
 [[Kyoko]] seems to be her daughter.

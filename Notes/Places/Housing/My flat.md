@@ -1,5 +1,7 @@
+
 ---
 alias: []
+inside: [[Apartment]]
 ---
 This is where [[Akito Edmunds|Akito]] lives.
 

@@ -1,5 +1,3 @@
-#employed 
-
 The name is Ena and the surname is Kotobuke.
 
 About 30, pale skin, wearing the 2030s styled biker-styled clothes. Has a glass of whiskey with ice that is about half full.

@@ -1,5 +1,6 @@
 ---
 alias: ["Akito", "Edmunds", "Edamura-san", "Danya", "danya02", "me"]
+dwelling: [[Apartment]]
 ---
 #player 
 The name is Akito and the surname is Edmunds.

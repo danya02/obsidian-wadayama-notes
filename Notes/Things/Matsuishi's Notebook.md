@@ -1,3 +1,6 @@
+---
+is_at: [[Matsuishi residence]]
+---
 #importance_high 
 
 Paper notebook of 30 pages, 15 of those have untidy handwriting. Looks like a diary with no dates.

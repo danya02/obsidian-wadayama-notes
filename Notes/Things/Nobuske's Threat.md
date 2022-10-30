@@ -1,5 +1,6 @@
 ---
 alias: ["Threat to Nobuske"]
+is_at: [[Apartment]]
 ---
 
 #importance_medium

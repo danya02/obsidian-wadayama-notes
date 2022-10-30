@@ -1,6 +1,15 @@
 ---
 alias: ["Wadayama Town"]
+
 ---
+within:: [[Mt Hakkai]]
+within:: [[Main road]]
+within:: [[River Katsura]]
+within:: [[JR West Nanao Line]]
+adjacent:: [[Nantan]]
+adjacent:: [[Kyoto]]
+
+
 
 Part of the [[Kyoto]] Prefecture.
 

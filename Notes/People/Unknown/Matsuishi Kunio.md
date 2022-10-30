@@ -1,3 +1,7 @@
+---
+employer: [[School]]
+
+---
 #employed
 Former history teacher at the [[School]].
 

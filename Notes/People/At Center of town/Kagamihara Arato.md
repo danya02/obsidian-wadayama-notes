@@ -1,5 +1,6 @@
 ---
 alias: ["Arato", "Kagamihara-kun"]
+parent: [[Kagamihara Yuma]]
 ---
 #schoolchild
 

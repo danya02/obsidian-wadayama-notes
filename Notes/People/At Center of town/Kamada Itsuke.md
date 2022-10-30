@@ -1,5 +1,7 @@
 ---
 alias: ["Kamada-san", "Itsuke"]
+dwelling: [[Kamada Residence]]
+employer: [[Mayor's Office]]
 ---
 
 #importance_high #employed 

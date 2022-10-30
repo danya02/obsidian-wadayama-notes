@@ -1,8 +1,6 @@
 ---
 alias: ["Mayor's Office building"]
 ---
-
-Also has the [[Supermarket]] and the [[Library]].
 [[Kamada Itsuke]] is here.
 
 Outside on the First evening, noticed a group of people putting up the [[Festival Poster]].

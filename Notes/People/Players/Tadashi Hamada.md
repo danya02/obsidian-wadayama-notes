@@ -1,5 +1,6 @@
 ---
 alias: ["Tadashi-san", "Hamada", "Yarik", "Yaroslav_Basalov"]
+dwelling: [[Apartment]]
 ---
 #player 
 

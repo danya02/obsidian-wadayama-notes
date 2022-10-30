@@ -1,5 +1,7 @@
 ---
 alias: ["Fujiwara-san", "Iori", "Drunk man"]
+partner: [[Fujiwara Riko]]
+dwelling: [[Fujiwara Residence]]
 ---
 
 The surname is Fujiwara and the first name is Iori.

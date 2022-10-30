@@ -1,3 +1,8 @@
+---
+inside: [[Mt Hakkai Road]]
+---
+#importance_high 
+
 Is at the top of the mountain. [[Mt Hakkai Road]] leads here.
 
 There are some torii leading up to it.

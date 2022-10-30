@@ -12,8 +12,12 @@
             "type": "leaf",
             "dimension": 50.756811301715445,
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "People/At Camping Site/Patrick.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -23,6 +27,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "People/At Camping Site/Patrick.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -45,7 +50,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.8360386601669876,
+                  "scale": 0.9999999999999898,
                   "close": true
                 }
               }
@@ -108,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "People/At Camping Site/Patrick.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "People/At Camping Site/Patrick.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -137,15 +144,15 @@
   },
   "active": "f311c0e93a685bd5",
   "lastOpenFiles": [
+    "Places/Businesses/Camping site.md",
+    "People/At Camping Site/Patrick.md",
+    "People/Unknown/Kotobuke Ena.md",
+    "People/Unknown/Matsuishi Kunio.md",
+    "People/At North of town/Igarashi Iroha.md",
     "Places/Land features/Mt Hakkai.md",
-    "Places/Businesses/Supermarket.md",
-    "Places/Land features/Main road.md",
-    "Places/Land features/Wadayama.md",
-    "Places/Businesses/Mayor's Office.md",
-    "Places/Businesses/Izakaya.md",
-    "People/Roaming/Kyoko.md",
-    "Places/Businesses/School.md",
-    "People/Roaming/Liao Tingni.md",
-    "Places/Housing/Apartment.md"
+    "Places/Land features/Mt Hakkai Road.md",
+    "Places/Shrine.md",
+    "People/Unknown/Minato Yasonori.md",
+    "Places/Businesses/Supermarket.md"
   ]
 }

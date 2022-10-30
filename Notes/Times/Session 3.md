@@ -1,5 +1,6 @@
 ---
 alias: ["Second evening"]
+after: [[Session 2]]
 ---
 
 Session date: 07.10.2022

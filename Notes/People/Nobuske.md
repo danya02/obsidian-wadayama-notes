@@ -1,5 +1,6 @@
 ---
 alias: ["Kitagawa-san", "Kitagawa Nobuske", "landlord"]
+dwelling: [[Apartment]]
 ---
 
 #importance_high 
@@ -18,6 +19,6 @@ Arrived in Wadayama from [[Kyoto]]. Neighbors do not like him and somebody wants
 Showed us [[Nobuske's Threat]].
 Gave us [[Nobuske's Quest]].
 
-Asked about why there are many foreigners. Said that some live nearby (in the [[Unusual house|Chinese house]]?), and are quiet like mice "like they should be". Also [[Bikers]] occasionally drive, and the police don't care (but there are only two officers so maybe they're scared). Said we shouldn't care about this and there are more important things.
+Asked about why there are many foreigners. Said that some live nearby (in the [[Chinese house|Chinese house]]?), and are quiet like mice "like they should be". Also [[Bikers]] occasionally drive, and the police don't care (but there are only two officers so maybe they're scared). Said we shouldn't care about this and there are more important things.
 
 Asked about leads. Told him we were at school and supermarket. He told us about the Izakaya, could not remember the name. On evenings, the locals come there, a place of intrigue, fights and conflicts. Don't know who you can find there now but there are many people there in the evening.

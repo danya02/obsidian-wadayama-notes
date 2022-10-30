@@ -1,5 +1,6 @@
 ---
 alias: ["Kagamihara-san", "Yuma"]
+employer: [[Camping site]]
 ---
 
 #employed 

@@ -1,5 +1,6 @@
 ---
 alias: ["Third day"]
+after: [[Session 3]]
 ---
 
 Session date: 14.10.2022

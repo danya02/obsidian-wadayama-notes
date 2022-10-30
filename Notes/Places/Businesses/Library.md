@@ -1,5 +1,4 @@
 Occupies the 2nd floor of the town hall building.
-Also has the [[Mayor's Office]] and the [[Supermarket]].
 
 It is very quiet, but there is an argument in the Mayor's Office, closer to the river. 
 Yarik went to explore the admin section, walked past a reception with a late-student-aged receptionist.

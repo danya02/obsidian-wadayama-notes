@@ -1,5 +1,6 @@
 ---
 alias: ["Primary School"]
+inside: [[Main road]]
 ---
 
 As we arrived, school year has come to an end.
