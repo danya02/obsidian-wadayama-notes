@@ -1,3 +1,7 @@
+---
+partner: [[Igarashi-san]]
+dwelling: [[Igarashi Mansion]]
+---
 The name is Iroha and the surname is Igarashi.
 
 [[Tadashi Hamada|Yarik]] asked the lady for some wound treatment.

@@ -9,7 +9,7 @@ Allows someone skilled at sewing (like [[Akito Edmunds|Akito]]) craft clothes, a
 
 Contents:
 - Tools (innate to kit), ¥50
-- Textile charges, 25/25, ¥2
+- Textile charges, 18/25, ¥2
 - Conductive thread, 15/15, ¥1
 - Battery, 3/3, ¥10
 - Controller, 2/2, ¥25
@@ -19,4 +19,4 @@ Contents:
 - Orientation sensor, 1/1, ¥11
 
 Changes:
-- (none so far)
+- Third day: -7 Textile charges for traditional-style clothes for [[Tadashi Hamada|Yarik]].

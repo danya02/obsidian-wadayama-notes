@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "9a9acfa11e65e1a1",
+        "id": "73ae6723ea9310f5",
         "type": "tabs",
         "children": [
           {
-            "id": "ea9b50639382d3f2",
+            "id": "23a28845837d6610",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Places/Businesses/Library.md",
+                "file": "Times/Strange activity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4ad0e308cf8896bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Times/Session 6.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "yar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Places/Businesses/Library.md",
+                "file": "Times/Strange activity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Places/Businesses/Library.md",
+                "file": "Times/Strange activity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,17 +151,17 @@
     "direction": "horizontal",
     "width": 413.5
   },
-  "active": "ea9b50639382d3f2",
+  "active": "23a28845837d6610",
   "lastOpenFiles": [
-    "Things/Festival Poster.md",
-    "Places/Businesses/Library.md",
-    "Places/Businesses/Supermarket.md",
-    "Places/Businesses/Mayor's Office.md",
-    "Places/Businesses/Camping site.md",
-    "People/At Camping Site/Kagamihara Yuma.md",
-    "People/At North of town/Takanashi Ibuki.md",
-    "Places/Businesses/Hospital.md",
-    "Places/Businesses/Izakaya.md",
-    "Places/Housing/Apartment.md"
+    "Times/Session 6.md",
+    "Times/Session 5.md",
+    "Times/Strange activity.md",
+    "People/Players/Akito Edmunds.md",
+    "People/Players/Mike Bequith.md",
+    "People/Players/Tadashi Hamada.md",
+    "Images/Akito Edmunds' Charsheet.png",
+    "People/Unknown/Minato Yasonori.md",
+    "People/Unknown/Matsuishi Kunio.md",
+    "Objectives/Torii restoration.md"
   ]
 }

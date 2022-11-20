@@ -21,3 +21,5 @@ We tracked him out the building, saw him go into the 2-floor cottage next to the
 There is a brass plate saying [[Kamada Itsuke|Kamada]] on the gate.
 
 On Third day, saw [[Reader Nerd]] and [[Sandal Girl]]. They were talking to [[Kagamihara Arato|Kagamihara-kun]] to convince him to go out with them. He responded that he's moving to Osaka soon so he needs to prepare for the exams.
+
+On Third day, [[Tadashi Hamada|Yarik]] made some ___content___, which has earned him 13Y.

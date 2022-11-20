@@ -20,3 +20,5 @@ Notice is d8.
 Common Knowledge is d8.
 
 Has some kind of neural implant.
+
+As of Third night, has 1 Wound. 

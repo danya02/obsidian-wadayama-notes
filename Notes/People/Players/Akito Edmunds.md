@@ -15,6 +15,7 @@ The clothing he wears is of a semi-neo-traditional style but has been Boston-pat
 
 On the First evening, spent 3Y for beer at the [[Izakaya]]. Total as of Session 2: 88Y.
 
+As of Third night, has 1 Wound. 
 
 
 ![[Akito Edmunds' Charsheet.png]]
