@@ -21,4 +21,12 @@ Common Knowledge is d8.
 
 Has some kind of neural implant.
 
-As of Third night, has 1 Wound. 
+As of Third night, has 1 Wound. Reset by start of Session 7.
+
+On [[Session 7]], while on [[Mt Hakkai Road]], smartglasses start to lag a lot (a lot of network usage, but no anomalous processes).
+Was downloading unknown code, of which fragments are recorded, and when opened to view text the lagging stopped.
+Code is saved to disk.
+
+Had 240Y(?).
+Ordered code analysis for 90Y. 
+Then gave 150Y to [[Nakamura Kotoha]]

@@ -15,3 +15,5 @@ Yarik tells him that [[Sandal Girl]] is interested in him. He responds that he t
 He said that he doesn't know what she likes or how to get her interested. Yarik says that she is already interested in him so it doesn't matter what he might say. It seems that he's reached a conclusion, and after that he solves math tasks worse than usual.
 
 Asked about [[Matsuishi Kunio]]. He said that he hasn't met him, refers to Mamiko. People didn't like to talk about him so he doesn't know.
+
+On [[Session 7]], was in [[Library]] with [[Sandal Girl]]. Later, we followed them to [[Mt Hakkai|Mountaintop]], where they had a love confession scene.

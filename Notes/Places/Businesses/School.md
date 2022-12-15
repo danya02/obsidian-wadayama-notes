@@ -11,12 +11,16 @@ Heard that people ride to school on the [[Intercity trolleybus]].
 Heard that there is forecast of heavy rain in about 3 days.
 Heard that students will no longer need to come to school because the year is over.
 
-Saw a man of 35-40 with olive suit and square smartglasses, above average height, very thin, speaks with teacher's voice to group of 4 5/6-greaders (2 boys, 2 girls). One of the boys is Chinese: kimono has Chinese-style attributes. Teacher ([[Nakamura]]) gives homework: if need help, come to school, specified days to visit. All 4 are locals, others come here from other cities. 3 Japanese people are together, the Chinese one is different.
+Saw a man of 35-40 with olive suit and square smartglasses, above average height, very thin, speaks with teacher's voice to group of 4 5/6-greaders (2 boys, 2 girls)
+
+
+One of the boys is Chinese: kimono has Chinese-style attributes. ([[Liao Tingni|Liao]]) Teacher ([[Nakamura Hayato]]) gives homework: if need help, come to school, specified days to visit. All 4 are locals, others come here from other cities.
+Probably [[Kagamihara Arato|Kagamihara-kun]], [[Kotobuke-chan]], [[Fujiwara Toma|Fujiwara-kun]], [[Liao Tingni|Liao]]
 [[Liao Tingni]] went south.
 
 At gate, saw a guard booth with a man over 60 in semi-formal clothes. Told him I'm looking to enroll in the school. He says the only one there is the math teacher.
 
-Saw [[Reader Nerd]] and [[Sandal Girl]] and Chinese boy. Guard says if teacher is running late, they say Mr [[Nakamura]] is indeed running late.
+Saw [[Fujiwara Toma]] and [[Sandal Girl]] and [[Liao Tingni]]. Guard says if teacher is running late, they say Mr [[Nakamura Hayato]] is indeed running late.
 The children are copying some of the homework from each other.
 
 Asked the children how do they like the school; they say "OK".

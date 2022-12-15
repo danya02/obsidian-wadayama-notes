@@ -11,12 +11,12 @@ Paper notebook of 30 pages, 15 of those have untidy handwriting. Looks like a di
 > 
 > “Can focus on my work with all that pressure. Even had to cancel spring consultation, not that the kids were upset, though. I hope I am doing the right thing.”
 >
-“Visited Nobusuke’s house and saw the poor man in the garden. Can not believe whatever I was told is true.”
+> “Visited Nobusuke’s house and saw the poor man in the garden. Can not believe whatever I was told is true.”
 
 There is a hand drawn plan of [[Apartment|Apartment building]]/Nobusuke’s house and his daily routine. He tends to stay in the lobby downstairs rather than in his flat. Large time intervals are marked as "stays at home". In the evening, 9PM-12AM, the curtains are drawn.
 
 >
-“I suppose it can not read my mind. Consult Doctor Takanashi tomorrow, discreetly. This is going too far.”
+“I suppose it can not read my mind. Consult Doctor [[Takanashi Ibuki]] tomorrow, discreetly. This is going too far.”
 >
 “The doctor says he found nothing, but if that’s so how that fox is still not gone.”
 

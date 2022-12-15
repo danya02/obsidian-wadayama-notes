@@ -8,7 +8,11 @@ Note that [[Kyoko]] has moved in a year ago, and is tending to the shrine about 
 
 Asked about [[Torii restoration]], he said that his ancestors deployed them so he won't let them be moved out. Said that he'll consider it if the [[Festival]] happens again. Asked him why he won't do it, he said that he's too old to go up to the shrine, that people don't want him, and that it's shameful since he's abandoned the subject. Said that he held the festival around 2011.
 
-Asked about the rules for the festival: not too unusual, dedicated to [[Inari]]. Needs a portable shrine (in a litter-type vehicle, which needs restoration), move it up to the main shrine to pick up the spirit, then bring down to the city, have a feast, then bring the spirit back up. Note that there is a hard-to-spot gorge along the path that they nearly dropped the portable shrine into once.
+Asked about the rules for the festival: not too unusual, dedicated to [[Inari]]. Needs a portable shrine (in a [[Palanquin]], which needs restoration), move it up to the main shrine to pick up the spirit, then bring down to the city, have a feast, then bring the spirit back up. Note that there is a hard-to-spot gorge along the path that they nearly dropped the portable shrine into once.
 
 Asked interesting facts about the city. Told about the missing teacher, they don't know much about it or him, but he did disappear.
 
+Talked about fundraising for the [[Palanquin]].
+Saw a violin case of a well-known manufacturer.
+Belongs to [[Igarashi Iroha]], but doesn't play. Could be sold,
+but she does not want to do it because it has sentimental value.

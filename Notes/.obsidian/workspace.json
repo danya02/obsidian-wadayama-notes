@@ -8,26 +8,50 @@
         "type": "tabs",
         "children": [
           {
-            "id": "23a28845837d6610",
+            "id": "d9e2571ff5fe3bc6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Times/Strange activity.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "311c3b29c416a628",
+        "type": "tabs",
+        "children": [
           {
-            "id": "4ad0e308cf8896bc",
+            "id": "a881f624aaa1ab6c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "localgraph",
               "state": {
-                "file": "Times/Session 6.md",
-                "mode": "source",
-                "source": false
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.9999999999999986,
+                  "close": false
+                }
               }
             }
           }
@@ -60,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "yar",
+                "query": "sanda",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 314.5
+    "width": 311.5
   },
   "right": {
     "id": "266cc2e80d460840",
@@ -89,7 +113,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Times/Strange activity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +129,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Times/Strange activity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,19 +171,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 413.5
+    "width": 379.5
   },
-  "active": "23a28845837d6610",
+  "active": "d9e2571ff5fe3bc6",
   "lastOpenFiles": [
-    "Times/Session 6.md",
-    "Times/Session 5.md",
-    "Times/Strange activity.md",
-    "People/Players/Akito Edmunds.md",
-    "People/Players/Mike Bequith.md",
-    "People/Players/Tadashi Hamada.md",
-    "Images/Akito Edmunds' Charsheet.png",
-    "People/Unknown/Minato Yasonori.md",
-    "People/Unknown/Matsuishi Kunio.md",
-    "Objectives/Torii restoration.md"
+    "Places/Housing/Nakamura Residence.md",
+    "People/At South of town/Nakamura Kotoha.md",
+    "Rumored objects/Kyoto.md",
+    "Rumored objects/Police deputy.md",
+    "Rumored objects/JR West Nanao Line.md",
+    "Rumored objects/Intercity trolleybus.md",
+    "Rumored objects/Old Lady.md",
+    "Rumored objects/Takeda Residence.md",
+    "Times/Kids' Party.md",
+    "Rumored objects/Hannah.md"
   ]
 }

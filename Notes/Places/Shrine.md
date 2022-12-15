@@ -1,5 +1,6 @@
 ---
 inside: [[Mt Hakkai Road]]
+alias: ["Wakamiya Shrine"]
 ---
 #importance_high 
 
@@ -19,3 +20,7 @@ I notice a weak smell of incense from the main entrance of the shrine.
 There is a barely-noticeable path to the back of the shrine.
 On the back side of this there is a laminated photo of an about 20-year-old man, maybe student-aged with a very sad face, wearing an inconspicuous neo-traditional.
 Incense is usually used when a person has died.
+
+
+Visited on [[Session 8]]. On the road, saw a spotted wild boar.
+Grass around shrine was matted down. Has incense that was used within the day. Footsteps around going to/from the main road, around the shrine and north to the forest.
