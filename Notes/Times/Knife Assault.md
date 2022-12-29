@@ -29,7 +29,7 @@ Talked to [[Utsuji Hidehisa]].
 [[Kotobuke Ena]] is at the bar. Tried talking to her, but was uninterested.
 
 
-After, [[Police sheriff]] says too much work handling the incident;
+After, [[Kagamihara Himari]] says too much work handling the incident;
 this is not to be expected from working in the town. 
 [[Stabbing Assailant]] must have been from Osaka.
 

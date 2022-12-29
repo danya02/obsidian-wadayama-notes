@@ -27,6 +27,8 @@ On [[Session 7]], while on [[Mt Hakkai Road]], smartglasses start to lag a lot (
 Was downloading unknown code, of which fragments are recorded, and when opened to view text the lagging stopped.
 Code is saved to disk.
 
-Had 240Y(?).
+Had 280Y.
 Ordered code analysis for 90Y. 
-Then gave 150Y to [[Nakamura Kotoha]]
+Then gave 150Y to [[Nakamura Kotoha]].
+Then bought 3 LED lamps for 3Y each.
+Now has 31Y.

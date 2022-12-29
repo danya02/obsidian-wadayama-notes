@@ -1,0 +1,1 @@
+Seems to be a daughter of [[Takanashi Ibuki]]. About 30 years old

@@ -1,4 +1,4 @@
----
+Kamada-san---
 alias: ["Tadashi-san", "Hamada", "Yarik", "Yaroslav_Basalov"]
 dwelling: [[Apartment]]
 ---
@@ -18,3 +18,4 @@ As of end of Session 7, has 1 Wound.
 On Session 7, got more ***content*** and earned 14Y.
 Bought a shot of sake for 1Y.
 On session 8, got 22Y.
+On Session 9, got 2Y.

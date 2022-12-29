@@ -23,8 +23,8 @@ Waited there then heard people coming up the steps. There is a boy and girl voic
 It seems that the [[Fujiwara Toma]] is a stereotypical "nerd", even if we do not refer to people like that: thin, clumsily moves, light-blue kimono with dragonfly pattern and boots, he holds an old e-reader of 14 inches;
 the [[Sandal Girl]] has wooden sandals, maybe modified to sound louder, and a well-made kimono whose quality looks higher than needed.
 
-She said that [[Hannah]] isn't going to the mountain with them, and she doesn't want to go to the forest unlike last time.
-His name is probably Toma
+She said that [[Kotobuke Hannah]] isn't going to the mountain with them, and she doesn't want to go to the forest unlike last time.
+
 He said that if they get a fountain firework--, and she stops him from talking about this until we leave.
 Talked about schoolwork; they are students of School. We saw three students the first time, and these are two of them.
 Talked about the office hours, for which you must wake up early.

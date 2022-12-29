@@ -9,3 +9,6 @@ The view at the place isn't that great so since we were here we're new here. We 
 
 
 [[Mike Bequith|Mike]] suggested helping [[Kagamihara Yuma|Kagamihara-san]], he gave him an axe to work on the gazebo and said thank you.
+
+On Session 9, visited here. Smells like onion and cheese.
+Asked about Rumored Party

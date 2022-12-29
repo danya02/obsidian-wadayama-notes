@@ -24,3 +24,18 @@ Incense is usually used when a person has died.
 
 Visited on [[Session 8]]. On the road, saw a spotted wild boar.
 Grass around shrine was matted down. Has incense that was used within the day. Footsteps around going to/from the main road, around the shrine and north to the forest.
+
+Visited on [[Session 9]]. Tried following the footsteps, into the forest wilderness, but could not find anything. Then terminal popup in glasses, their text in 19th century style
+
+"what are you looking for in the woods", in 19th century style. Wrote "I mean no harm". They responded "i know about your friends".
+
+"what should we stop doing"
+"it's obvious, don't investigate. this nobuske is an enemy of the city, do not do what he tells you"
+"we know he's bad, and do not intend to"
+"I know you want to restore festival, the city likes this. questions about nobuske will be solved quickly, do not worry about this"
+"what exactly should we not do?"
+"such ignorant tailor, do not go around the forest at night and stop investigating everything, the spirit of the city does not like it"
+Then flashlight turns off and does not turn back on.
+"thank you for your time, I'll be going now"
++1 fatigue
+Flashlight turns on when I cross the river.

@@ -1,4 +1,5 @@
 ---
+alias: ["Kotobuke-chan"]
 parent: [[Kotobuke Ena]]
 dwelling: [[Kotobuke residence]]
 ---

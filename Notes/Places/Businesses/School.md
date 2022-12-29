@@ -15,7 +15,7 @@ Saw a man of 35-40 with olive suit and square smartglasses, above average height
 
 
 One of the boys is Chinese: kimono has Chinese-style attributes. ([[Liao Tingni|Liao]]) Teacher ([[Nakamura Hayato]]) gives homework: if need help, come to school, specified days to visit. All 4 are locals, others come here from other cities.
-Probably [[Kagamihara Arato|Kagamihara-kun]], [[Kotobuke-chan]], [[Fujiwara Toma|Fujiwara-kun]], [[Liao Tingni|Liao]]
+Probably [[Kagamihara Arato|Kagamihara-kun]], [[Kotobuke Hannah]], [[Fujiwara Toma|Fujiwara-kun]], [[Liao Tingni|Liao]]
 [[Liao Tingni]] went south.
 
 At gate, saw a guard booth with a man over 60 in semi-formal clothes. Told him I'm looking to enroll in the school. He says the only one there is the math teacher.

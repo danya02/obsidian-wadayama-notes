@@ -14,7 +14,7 @@ I looked up the [[Apartment|Apartment building]]. It was built in 1993, and the 
 It is still the original building. Owners are not publicly known.
 
 
-While we were at the library, we saw [[Fujiwara Toma]] and [[Sandal Girl]]. The third, who is probably [[Hannah]], has blonde dyed hair and a unisex kimono that does not show gender. From window, saw talking, then go towards main road.
+While we were at the library, we saw [[Fujiwara Toma]] and [[Sandal Girl]]. The third, who is probably [[Kotobuke Hannah]], has blonde dyed hair and a unisex kimono that does not show gender. From window, saw talking, then go towards main road.
 
 At 6, Mayor left and went to the right (towards the river) from the building exit.
 We tracked him out the building, saw him go into the 2-floor cottage next to the river.
