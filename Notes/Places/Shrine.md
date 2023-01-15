@@ -39,3 +39,17 @@ Then flashlight turns off and does not turn back on.
 "thank you for your time, I'll be going now"
 +1 fatigue
 Flashlight turns on when I cross the river.
+
+When [[Mike Bequith|Mike]] goes there, hears distorted electronic voice saying "it seems that the first warning was not enough", sounds that though distorted it was originally a female voice, source is not at middle range behind him.
+Replies "warnings work if you care for them" and keeps walking.
+Voice responds "I don't like pointless bloodshed in sacred mountains, you should go" from somewhere closer by.
+Says "someone clearly wants to kill me, for why if one of my goals is the [[Festival]]"
+Hearing "you people do many vile things for your (lord), but this is your last warning: leave this forest, and maybe this city, and do not interfere. I know everything about you, you cannot hide from the protector spirit of the city"
+Says "why did you decide that we do this for our (lord) because it is our own desire, if you know so much then you must know it's an honest desire"
+"I saw you with [[Nobuske]] here, do not think that fog and bamboo can hide your speeches from me. Go back the way you came."
+Saw a figure in a large kimono that hides form, but seems female. Has [[Fox masks]] of lacquered wood. Voice saying "go while the spirits are well-meaning" coming from the mask.
+Figure is neither tall nor short.
+Has half-antique sword holstered in belt.
+From behind the collar to the neck, saw a computer cable.
+
+As he goes out to the shrine's clearing, says "wonder what [[Kotobuke Ena]] is doing".

@@ -32,3 +32,10 @@ Ordered code analysis for 90Y.
 Then gave 150Y to [[Nakamura Kotoha]].
 Then bought 3 LED lamps for 3Y each.
 Now has 31Y.
+
+On Session 10, got answer about code analysis: AI generated code,
+one of modules is for smartglasses backdooring,
+program intended to track smartglasses with camera, microphone, GPS and sent via local network. Also does some other things, but don't know what they are.
+Got refund of 45Y.
+
+Found obscure smartglasses distro that is harder to hack and easier to notice happening.

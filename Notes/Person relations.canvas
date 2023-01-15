@@ -1,0 +1,41 @@
+{
+	"nodes":[
+		{"id":"a9a00b917e2a1721","x":-800,"y":528,"width":400,"height":400,"color":"#e100ff","type":"file","file":"People/Players/Tadashi Hamada.md"},
+		{"id":"39722995bf1b5a34","x":-1130,"y":1040,"width":250,"height":60,"color":"4","type":"text","text":"Friends with"},
+		{"id":"7251231802ce8dec","x":-2160,"y":870,"width":400,"height":400,"type":"file","file":"People/At Center of town/Kagamihara Arato.md"},
+		{"id":"ec28b735fc36af1e","x":-3210,"y":870,"width":400,"height":400,"type":"file","file":"People/Unknown/Sandal Girl.md"},
+		{"id":"2322cbd1122be9dc","x":-2640,"y":1040,"width":250,"height":60,"color":"6","type":"text","text":"Is in love with"},
+		{"id":"2d4058c148646be7","x":-2640,"y":-37,"width":400,"height":400,"type":"file","file":"People/At Camping Site/Kagamihara Yuma.md"},
+		{"id":"e9a05ba019c3b44e","x":-1760,"y":-23,"width":400,"height":386,"type":"file","file":"People/At Center of town/Kagamihara Himari.md"},
+		{"id":"1e10946e6ce9c43c","x":-2100,"y":140,"width":250,"height":60,"type":"text","text":"Are parents of"},
+		{"id":"cb9a6c180e03035c","x":-165,"y":313,"width":225,"height":50,"color":"5","type":"text","text":"Common relations with"},
+		{"id":"f546f4be8d72f0e3","x":-2160,"y":1400,"width":400,"height":400,"type":"file","file":"People/Roaming/Fujiwara Toma.md"},
+		{"id":"7189fd6038f49f81","x":320,"y":528,"width":400,"height":400,"color":"5","type":"file","file":"People/Players/Mike Bequith.md"},
+		{"id":"e8323a49e20b2bfa","x":1200,"y":-280,"width":400,"height":400,"color":"1","type":"file","file":"People/Nobuske.md"},
+		{"id":"3216d6c24608ca2c","x":-240,"y":-480,"width":400,"height":400,"color":"4","type":"file","file":"People/Players/Akito Edmunds.md"},
+		{"id":"faf95a19d2720abe","x":-240,"y":-1520,"width":400,"height":400,"color":"1","type":"file","file":"People/Strange communicator.md"},
+		{"id":"0e9cf5d08ac4a5cc","x":640,"y":-880,"width":400,"height":400,"type":"file","file":"People/At South of town/Nakamura Kotoha.md"}
+	],
+	"edges":[
+		{"id":"79ee7f6e51c16740","fromNode":"3216d6c24608ca2c","fromSide":"bottom","toNode":"a9a00b917e2a1721","toSide":"top"},
+		{"id":"fc15b8543920d597","fromNode":"a9a00b917e2a1721","fromSide":"top","toNode":"3216d6c24608ca2c","toSide":"bottom"},
+		{"id":"735fc21ac8b0a063","fromNode":"a9a00b917e2a1721","fromSide":"right","toNode":"7189fd6038f49f81","toSide":"left"},
+		{"id":"7f269e9d19b5e752","fromNode":"7189fd6038f49f81","fromSide":"left","toNode":"a9a00b917e2a1721","toSide":"right"},
+		{"id":"b8bcd29f0ebc266e","fromNode":"7189fd6038f49f81","fromSide":"top","toNode":"3216d6c24608ca2c","toSide":"bottom"},
+		{"id":"30d73c108298c1ae","fromNode":"3216d6c24608ca2c","fromSide":"bottom","toNode":"7189fd6038f49f81","toSide":"top"},
+		{"id":"834c79f0d0d2a8ba","fromNode":"a9a00b917e2a1721","fromSide":"bottom","toNode":"39722995bf1b5a34","toSide":"right"},
+		{"id":"e8e1cc5e2487c7a7","fromNode":"39722995bf1b5a34","fromSide":"left","toNode":"7251231802ce8dec","toSide":"right"},
+		{"id":"ba325ec3b1f4ad8e","fromNode":"39722995bf1b5a34","fromSide":"left","toNode":"f546f4be8d72f0e3","toSide":"right"},
+		{"id":"32b4ce0e0f69eace","fromNode":"7189fd6038f49f81","fromSide":"left","toNode":"cb9a6c180e03035c","toSide":"bottom"},
+		{"id":"ddd7eca3795030f0","fromNode":"a9a00b917e2a1721","fromSide":"right","toNode":"cb9a6c180e03035c","toSide":"bottom"},
+		{"id":"56a8bbb792c44069","fromNode":"3216d6c24608ca2c","fromSide":"bottom","toNode":"cb9a6c180e03035c","toSide":"top"},
+		{"id":"19935bc18ab982a5","fromNode":"cb9a6c180e03035c","fromSide":"right","toNode":"e8323a49e20b2bfa","toSide":"left"},
+		{"id":"b885f8daca9a7c26","fromNode":"ec28b735fc36af1e","fromSide":"right","toNode":"2322cbd1122be9dc","toSide":"left"},
+		{"id":"1a4e9476cd2d1d12","fromNode":"7251231802ce8dec","fromSide":"left","toNode":"2322cbd1122be9dc","toSide":"right"},
+		{"id":"9a563c1c970efce0","fromNode":"2d4058c148646be7","fromSide":"right","toNode":"1e10946e6ce9c43c","toSide":"left"},
+		{"id":"b01f66a92917361b","fromNode":"e9a05ba019c3b44e","fromSide":"left","toNode":"1e10946e6ce9c43c","toSide":"right"},
+		{"id":"291220426cb4c166","fromNode":"faf95a19d2720abe","fromSide":"bottom","toNode":"3216d6c24608ca2c","toSide":"top"},
+		{"id":"b7f885b11fc63deb","fromNode":"cb9a6c180e03035c","fromSide":"right","toNode":"0e9cf5d08ac4a5cc","toSide":"bottom"},
+		{"id":"784eeb62515cd618","fromNode":"faf95a19d2720abe","fromSide":"right","toNode":"0e9cf5d08ac4a5cc","toSide":"top"}
+	]
+}

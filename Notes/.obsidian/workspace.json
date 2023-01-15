@@ -4,100 +4,112 @@
     "type": "split",
     "children": [
       {
-        "id": "311c3b29c416a628",
-        "type": "tabs",
+        "id": "f51cd5daba01144d",
+        "type": "split",
         "children": [
           {
-            "id": "fa7e3412eb16d0b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Times/Rumored Party.md",
-                "mode": "source",
-                "source": false
+            "id": "1279e7111046d35e",
+            "type": "split",
+            "children": [
+              {
+                "id": "e4583b54667e0d47",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "fb6f646dbe8587e3",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Times/Session 10.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "5a212203e36fd62e",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "42076e0ce7ad14cf",
+                    "type": "leaf",
+                    "state": {
+                      "type": "localgraph",
+                      "state": {
+                        "file": "Times/Session 10.md",
+                        "options": {
+                          "collapse-filter": false,
+                          "search": "",
+                          "localJumps": 1,
+                          "localBacklinks": true,
+                          "localForelinks": true,
+                          "localInterlinks": false,
+                          "showTags": false,
+                          "showAttachments": false,
+                          "hideUnresolved": false,
+                          "collapse-color-groups": true,
+                          "colorGroups": [],
+                          "collapse-display": false,
+                          "showArrow": true,
+                          "textFadeMultiplier": 0,
+                          "nodeSizeMultiplier": 1,
+                          "lineSizeMultiplier": 1,
+                          "collapse-forces": true,
+                          "centerStrength": 0.518713248970312,
+                          "repelStrength": 10,
+                          "linkStrength": 1,
+                          "linkDistance": 250,
+                          "scale": 0.8360386601669927,
+                          "close": true
+                        }
+                      }
+                    }
+                  }
+                ]
               }
-            },
-            "group": "dcbd60bd95541dea"
+            ],
+            "direction": "vertical"
           },
           {
-            "id": "2dfeeee2f0c314c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Strange communicator.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c072ea4abd377f53",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.9"
-              }
-            }
-          },
-          {
-            "id": "c774565410371ce6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Places/Shrine.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "6c8fe8e73542fcae",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "42076e0ce7ad14cf",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Times/Rumored Party.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": false,
-                  "showArrow": true,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.8360386601669948,
-                  "close": true
+            "id": "2c417e8a804841bf",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "36fadea7cebb9994",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "Person relations.canvas",
+                    "viewState": {
+                      "x": 325.74861679649365,
+                      "y": -769.9176447245802,
+                      "zoom": -1.2710201205778513,
+                      "snapToGrid": true
+                    }
+                  }
+                }
+              },
+              {
+                "id": "a2b15533351174f5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "People/At South of town/Nakamura Kotoha.md",
+                    "mode": "source",
+                    "source": false
+                  }
                 }
               }
-            },
-            "group": "dcbd60bd95541dea"
+            ],
+            "currentTab": 1
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -126,7 +138,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hannah",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -155,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Strange communicator.md",
+                "file": "Times/Session 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Strange communicator.md",
+                "file": "Times/Session 10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -228,17 +240,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "c072ea4abd377f53",
+  "active": "fb6f646dbe8587e3",
   "lastOpenFiles": [
-    "Things/Broken smartglasses.md",
-    "People/Players/Akito Edmunds.md",
-    "Times/Rumored Party.md",
-    "People/Players/Mike Bequith.md",
-    "People/At Center of town/Takeda Yuno.md",
-    "People/At North of town/Igarashi-san.md",
-    "People/At North of town/Inoue.md",
-    "People/At South of town/Nakamura Kotoha.md",
-    "Takanashi-chan.md",
-    "Times/Session 9.md"
+    "Times/Session 9.md",
+    "Times/Session 10.md",
+    "Times/Session 8.md",
+    "Times/Session 7.md",
+    "Times/Session 5.md",
+    "Meta/Other group.md",
+    "Meta/Inari.md",
+    "Things/Matsuishi's Notebook.md",
+    "Times/Kids' Party.md",
+    "Places/Shrine.md"
   ]
 }

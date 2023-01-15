@@ -17,7 +17,11 @@ On the First evening, spent 3Y for beer at the [[Izakaya]]. Total as of Session 
 
 As of Third night, has 1 Wound. Reset by start of Session 7.
 
-Gave 50Y to [[Nakamura Kotoha]]. 
+Gave 50Y to [[Nakamura Kotoha]].
+
+On Session 10, met client, 30 years with 70s style mustache. Got kimono to repair.
+
+
 
 
 ![[Akito Edmunds' Charsheet.png]]
