@@ -21,3 +21,5 @@ Desktop computer with lid removed, there is an SSD inside but disconnected. Cont
 On living room table, cardboard boxes of unknown medicines.
 
 There are books on Japanese history, about teaching at middle school, and [[Matsuishi's Notebook]].
+
+On Session 12, found robot dog to disassemble, as well as a contact info with 1580 written on it. It seems that this is arranging a deal to buy a 9mm Colt firearm using a temporary contact.

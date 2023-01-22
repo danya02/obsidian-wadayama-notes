@@ -28,6 +28,18 @@
                     }
                   },
                   {
+                    "id": "df6688babc1063c0",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Showdown at Mountaintop.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  },
+                  {
                     "id": "178b32d80adc3b6c",
                     "type": "leaf",
                     "state": {
@@ -39,7 +51,8 @@
                       }
                     }
                   }
-                ]
+                ],
+                "currentTab": 1
               },
               {
                 "id": "5a212203e36fd62e",
@@ -51,7 +64,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "People/At North of town/Igarashi-san.md",
+                        "file": "Showdown at Mountaintop.md",
                         "options": {
                           "collapse-filter": false,
                           "search": "",
@@ -74,7 +87,7 @@
                           "repelStrength": 10,
                           "linkStrength": 1,
                           "linkDistance": 250,
-                          "scale": 0.6989606412938222,
+                          "scale": 0.9999999999999961,
                           "close": true
                         }
                       }
@@ -107,13 +120,24 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "People/At North of town/Igarashi-san.md",
+                    "file": "Times/Festival.md",
                     "mode": "source",
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "72eeb38802653bd7",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "Images/Akito Edmunds' Charsheet.png"
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "horizontal"
@@ -145,7 +169,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mountaintop",
+                "query": "nobuske",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -154,8 +178,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -175,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/At North of town/Igarashi-san.md",
+                "file": "Showdown at Mountaintop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/At North of town/Igarashi-san.md",
+                "file": "Showdown at Mountaintop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -249,17 +272,17 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "36fadea7cebb9994",
+  "active": "42076e0ce7ad14cf",
   "lastOpenFiles": [
     "Places/Land features/Mt Hakkai.md",
-    "People/Unknown/Takanashi Mamiko.md",
-    "People/Players/Mike Bequith.md",
+    "Times/Session 10.md",
+    "Showdown at Mountaintop.md",
+    "People/Roaming/Kyoko.md",
+    "People/Nobuske.md",
+    "Places/Housing/Apartment.md",
     "Places/Shrine.md",
     "Things/Broken smartglasses.md",
-    "People/Roaming/Kyoko.md",
-    "People/At North of town/Inoue.md",
-    "People/At North of town/Igarashi-san.md",
-    "People/At North of town/Utsuji Hidehisa.md",
-    "People/At North of town/Takanashi Ibuki.md"
+    "People/Players/Mike Bequith.md",
+    "Places/Businesses/Camping site.md"
   ]
 }

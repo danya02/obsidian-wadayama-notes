@@ -16,3 +16,10 @@ Has a metal plate with engraved Latin text -- this is a "neurocalibrator", a neu
 
 Tends to the [[Shrine]] in place of [[Igarashi-san]], who can't anymore.
 Igarashi-san said that she doesn't have any friends her age.
+
+Saw her on bridge from [[Mt Hakkai|Mountain]] with backpack. Asked if she needs any help, she says no. Noticing that she usually looks pale, but is currently even paler than usual. Backpack is not full but does not look empty. I tried following her, she does not turn around, goes to left passing school and stopping at river bank. A few minutes later, she starts jumping across the river. I try to follow her, but fall into the river. She hears and turns around and sees as I get out of the river, then I go into the clearing that is on the other side.
+As I got there, I explained to [[Nobuske]] that [[Matsuishi Kunio]] had bought a gun, but he's now dead. He's decided to stay home for the festival.
+
+Saw her spying on our house for 10 minutes, then departs towards the bridge. Saw her moving towards the town square. Mike started talking to her about the festival. She smiles and says thank you, saying she likes the place very much. After arriving from Osaka, she likes how everyone knows everyone. She was upset that the [[Shrine]] was abandoned as a symbol, so decided to help.
+
+Mike mentions his neural implant. She reacts by quickly leaving.

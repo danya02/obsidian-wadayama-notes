@@ -9,3 +9,4 @@ Lived at [[Matsuishi residence]].
 May have been disappeared by [[Inari]].
 
 Contacted [[Takanashi Ibuki]].
+

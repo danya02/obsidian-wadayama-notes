@@ -66,3 +66,5 @@ When next to corpse, typed "are you responsible for this?" (which happened 20 mi
 Matsuishi has one slipper, european pyjamas, and a normal key on a keychain in the shape of a fox head. Taken.
 
 Going around the ravine over the safe route, then reached the top of the ravine next to the corpse.
+
+On Session 12, we went to the forest and found a piece of cloth inside a hole in a tree. The cloth is empty, but has some fresh tree and lacquer.

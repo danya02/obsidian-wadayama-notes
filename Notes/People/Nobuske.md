@@ -49,3 +49,5 @@ He looks surprise, then quizzical. When branching to [[Shrine]], refuses to move
 Suggested making jamming device as Mike was departing, without waiting for a response.
 
 During long conversation, Nobuske uses obscure words associated with organized crime.
+
+At Session 12, he called to tell us that "they've come for me", and have "chased me up the mountain". We all meet up at the [[Mt Hakkai|Mountaintop]]

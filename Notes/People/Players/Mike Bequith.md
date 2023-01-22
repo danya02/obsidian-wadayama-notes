@@ -41,3 +41,5 @@ Got refund of 45Y.
 Found obscure smartglasses distro that is harder to hack and easier to notice happening.
 
 On Session 11, bought axe for 10Y.
+
+On Session 12, made radio jammer.

@@ -23,7 +23,7 @@ On Session 10, met client, 30 years with 70s style mustache. Got kimono to repai
 
 On Session 11, bought shovel for 10Y.
 
-
+On Session 12, got 100Y for kimono repair. Invited them to visit [[Festival]], they said they might.
 
 
 
