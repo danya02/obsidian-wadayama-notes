@@ -21,7 +21,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "Places/Land features/Mt Hakkai.md",
+                        "file": "People/At Center of town/Kagamihara Arato.md",
                         "mode": "source",
                         "source": false
                       }
@@ -33,7 +33,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "Showdown at Mountaintop.md",
+                        "file": "People/At South of town/Nakamura Kotoha.md",
                         "mode": "source",
                         "source": false
                       }
@@ -51,8 +51,7 @@
                       }
                     }
                   }
-                ],
-                "currentTab": 1
+                ]
               },
               {
                 "id": "5a212203e36fd62e",
@@ -64,7 +63,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Showdown at Mountaintop.md",
+                        "file": "People/At Center of town/Kagamihara Arato.md",
                         "options": {
                           "collapse-filter": false,
                           "search": "",
@@ -118,26 +117,23 @@
                 "id": "36fadea7cebb9994",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Times/Festival.md",
-                    "mode": "source",
-                    "source": false
-                  }
+                  "type": "graph",
+                  "state": {}
                 }
               },
               {
                 "id": "72eeb38802653bd7",
                 "type": "leaf",
                 "state": {
-                  "type": "image",
+                  "type": "markdown",
                   "state": {
-                    "file": "Images/Akito Edmunds' Charsheet.png"
+                    "file": "People/At Camping Site/Kagamihara Yuma.md",
+                    "mode": "source",
+                    "source": false
                   }
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "horizontal"
@@ -169,7 +165,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nobuske",
+                "query": "kagami",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -198,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Showdown at Mountaintop.md",
+                "file": "People/At Center of town/Kagamihara Arato.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Showdown at Mountaintop.md",
+                "file": "People/At Center of town/Kagamihara Arato.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -272,17 +268,17 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "42076e0ce7ad14cf",
+  "active": "fb6f646dbe8587e3",
   "lastOpenFiles": [
-    "Places/Land features/Mt Hakkai.md",
-    "Times/Session 10.md",
-    "Showdown at Mountaintop.md",
-    "People/Roaming/Kyoko.md",
+    "People/At Camping Site/Kagamihara Yuma.md",
+    "People/Strange communicator.md",
     "People/Nobuske.md",
-    "Places/Housing/Apartment.md",
-    "Places/Shrine.md",
-    "Things/Broken smartglasses.md",
-    "People/Players/Mike Bequith.md",
-    "Places/Businesses/Camping site.md"
+    "Times/City Council Meeting 241.md",
+    "Times/Festival.md",
+    "People/At South of town/Nakamura Kotoha.md",
+    "Places/Businesses/Camping site.md",
+    "People/Unknown/Liao Tingni.md",
+    "Meta/Inari.md",
+    "Meta/Other group.md"
   ]
 }

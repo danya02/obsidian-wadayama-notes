@@ -24,3 +24,4 @@ then smartglasses get bricked.
 On Session 10, working on [[Palanquin]] happily.
 [[Mike Bequith|Mike]] visited to ask about her making the [[Fox masks]], as well as other items, for the festival. She didn't blink and replied that she does not make any masks, and probably will not have time for it.
 Impatiently continues working while talking, so we leave.
+Did not say this because it was supposed to be a surprise.

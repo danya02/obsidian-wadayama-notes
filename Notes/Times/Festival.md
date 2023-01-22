@@ -4,3 +4,5 @@ It should be religious-related but we spot no reference to the related shrine. P
 
 In the morning, the agricultural events are being prepared.
 Saw [[Kagamihara Yuma]] and [[Fujiwara Riko]] assembling stands, kids on squares, and [[Igarashi-san]] and [[Igarashi Iroha]] at their house.
+
+Never took place because of the events of the final day.

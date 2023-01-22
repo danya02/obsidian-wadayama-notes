@@ -14,3 +14,5 @@ Ordered a package with unknown contents from Sony.
 On Session 12, [[Mike Bequith|Mike]] visited their house, the [[Kotobuke Residence]]. She recognizes him. He tells him that he wants part of the scale, which she bought -- she asks who told her that, then "[[Takeda Yuno|Supermarket Shopkeeper]]'s talkativeness should be directed to better ends". Leaves house, wearing home clothes; inside house is dark.
 
 Mike asks her for parts, including some he doesn't need so she doesn't figure out the intentions. She asks what he's building -- she notices contradiction. She only gives one of the two parts he needs, taking the other one for herself.
+
+Is a hacker. She would be interested in hacking, or if she would have seen the code from [[Mike Bequith|Mike]]'s glasses. The code style can be seen from there.

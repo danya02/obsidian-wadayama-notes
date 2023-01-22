@@ -51,3 +51,5 @@ Suggested making jamming device as Mike was departing, without waiting for a res
 During long conversation, Nobuske uses obscure words associated with organized crime.
 
 At Session 12, he called to tell us that "they've come for me", and have "chased me up the mountain". We all meet up at the [[Mt Hakkai|Mountaintop]]
+
+Former Yakuza who wanted to leave his old life behind, but was terrorizing the local people: he is corrupt-linked with [[Kamada Itsuke|Kamada-san]] and he also tried to get [[Takeda Yuno|Supermarket Shopkeeper]] to do shady business. The AI learned a lot about it from the internet and decided to deal with it.

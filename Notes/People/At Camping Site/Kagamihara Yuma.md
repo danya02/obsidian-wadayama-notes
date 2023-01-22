@@ -15,3 +15,6 @@ Asked about the rain. Said [[Martin|Martin]] and [[Patrick]] will need to fix th
 Said they can't speak Japanese at all but his son knows a bit of English.
 
 Asked about [[Martin]]'s ghost sighting. Says that there is no ghosts, but there are boars and maybe wolves, so to be careful in the forest.
+
+
+His [[Rumored Party]] is just a party of his friends. The mayor tried to get him to give him a bribe and was searching for when to make problems for him.

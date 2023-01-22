@@ -35,3 +35,5 @@ this is not to be expected from working in the town.
 
 Yarik left bar and talked to [[Igarashi Iroha]]. Said that this only happened 30 years ago: a family lived here, husband and wife argued, and wife stabbed husband. Unknown what happened after.
 Festival in 4 days. Will have fireworks, which have a religious meaning, though forgotten. 
+
+Randomly came here from another city, and went insane. A neurocalibrator was supposed to help, but he didn't 

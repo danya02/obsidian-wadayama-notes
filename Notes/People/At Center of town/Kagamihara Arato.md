@@ -17,3 +17,5 @@ He said that he doesn't know what she likes or how to get her interested. Yarik 
 Asked about [[Matsuishi Kunio]]. He said that he hasn't met him, refers to Mamiko. People didn't like to talk about him so he doesn't know.
 
 On [[Session 7]], was in [[Library]] with [[Takanashi Mamiko]]. Later, we followed them to [[Mt Hakkai|Mountaintop]], where they had a love confession scene.
+
+After talking to [[Tadashi Hamada|Yarik]], the two of them grew more mature and realized that they could have a long-distance relationship. 
