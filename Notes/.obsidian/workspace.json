@@ -21,6 +21,18 @@
                     "state": {
                       "type": "markdown",
                       "state": {
+                        "file": "Places/Land features/Mt Hakkai.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "178b32d80adc3b6c",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
                         "file": "Times/Session 10.md",
                         "mode": "source",
                         "source": false
@@ -39,7 +51,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Times/Session 10.md",
+                        "file": "People/At North of town/Igarashi-san.md",
                         "options": {
                           "collapse-filter": false,
                           "search": "",
@@ -62,9 +74,21 @@
                           "repelStrength": 10,
                           "linkStrength": 1,
                           "linkDistance": 250,
-                          "scale": 0.8360386601669927,
+                          "scale": 0.6989606412938222,
                           "close": true
                         }
+                      }
+                    }
+                  },
+                  {
+                    "id": "450a04fde44f3314",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "People/At South of town/Kotobuke Hannah.md",
+                        "mode": "source",
+                        "source": false
                       }
                     }
                   }
@@ -81,32 +105,15 @@
                 "id": "36fadea7cebb9994",
                 "type": "leaf",
                 "state": {
-                  "type": "canvas",
-                  "state": {
-                    "file": "Person relations.canvas",
-                    "viewState": {
-                      "x": 325.74861679649365,
-                      "y": -769.9176447245802,
-                      "zoom": -1.2710201205778513,
-                      "snapToGrid": true
-                    }
-                  }
-                }
-              },
-              {
-                "id": "a2b15533351174f5",
-                "type": "leaf",
-                "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "People/At South of town/Nakamura Kotoha.md",
+                    "file": "People/At North of town/Igarashi-san.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "horizontal"
@@ -138,7 +145,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "mountaintop",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -147,7 +154,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -167,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Times/Session 10.md",
+                "file": "People/At North of town/Igarashi-san.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Times/Session 10.md",
+                "file": "People/At North of town/Igarashi-san.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -237,20 +245,21 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "fb6f646dbe8587e3",
+  "active": "36fadea7cebb9994",
   "lastOpenFiles": [
-    "Times/Session 9.md",
-    "Times/Session 10.md",
-    "Times/Session 8.md",
-    "Times/Session 7.md",
-    "Times/Session 5.md",
-    "Meta/Other group.md",
-    "Meta/Inari.md",
-    "Things/Matsuishi's Notebook.md",
-    "Times/Kids' Party.md",
-    "Places/Shrine.md"
+    "Places/Land features/Mt Hakkai.md",
+    "People/Unknown/Takanashi Mamiko.md",
+    "People/Players/Mike Bequith.md",
+    "Places/Shrine.md",
+    "Things/Broken smartglasses.md",
+    "People/Roaming/Kyoko.md",
+    "People/At North of town/Inoue.md",
+    "People/At North of town/Igarashi-san.md",
+    "People/At North of town/Utsuji Hidehisa.md",
+    "People/At North of town/Takanashi Ibuki.md"
   ]
 }

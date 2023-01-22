@@ -20,3 +20,4 @@ Bought a shot of sake for 1Y.
 On session 8, got 22Y.
 On Session 9, got 2Y.
 On Session 10, got 3Y and 40Y.
+On Session 11, got 4Y.

@@ -53,3 +53,16 @@ Has half-antique sword holstered in belt.
 From behind the collar to the neck, saw a computer cable.
 
 As he goes out to the shrine's clearing, says "wonder what [[Kotobuke Ena]] is doing".
+
+On Session 11, went into the forest at the place where [[Kotobuke Hannah]] went. Received angry message "the weasels are here again" on Mike's smartglasses. Rebooted and got same message again.
+
+Mike had trouble going through the forest and got Bruises.
+Went into ravine, which is safe to descend into at one point, but becomes vertical later on.
+In ravine, saw [[Matsuishi Kunio]]'s corpse, wearing pyjamas and rusted neural implant. Seems that he fell in from a high place.
+
+Also got message "stop or you will get retribution", then "that's it, the wrath of the city will come on you as for [[Nobuske]]" (as we went into the forest for about 10 minutes).
+When next to corpse, typed "are you responsible for this?" (which happened 20 minutes after that), got no response.
+
+Matsuishi has one slipper, european pyjamas, and a normal key on a keychain in the shape of a fox head. Taken.
+
+Going around the ravine over the safe route, then reached the top of the ravine next to the corpse.

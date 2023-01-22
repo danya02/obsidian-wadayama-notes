@@ -16,3 +16,10 @@ Talked about fundraising for the [[Palanquin]].
 Saw a violin case of a well-known manufacturer.
 Belongs to [[Igarashi Iroha]], but doesn't play. Could be sold,
 but she does not want to do it because it has sentimental value.
+
+
+Asked about stolen katana.
+Said that broke in, unlocked carefully, and only took sword.
+Looking around, lots of antiques, and sword is next to all these things.
+This sword is mid-19th century, but blade is much older, and in very good condition.
+Said that saw person in traditional clothes and fox mask and with a sword that looks similar. But was not convinced that the sword seen matches the one we got.

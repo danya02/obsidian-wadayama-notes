@@ -25,3 +25,4 @@ Yarik asked what the issue was, he responded by asking if we're doing progress w
 Nobuske said that we ought to investigate [[Kamada Itsuke|Kamada-san]] now.
 
 
+On Session 11, [[Mike Bequith|Mike]] visited to report on his assignment. Said that he's been regarded with skepticism, but got answer that it will happen at night in the coming days *(this is a lie, we know exactly)*. He replies that this is not specific enough, Mike apologizes.  

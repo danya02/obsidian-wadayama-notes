@@ -28,3 +28,4 @@ Asked about whether neuro-implanted people have hallucinations often. He said th
 Asked about [[Matsuishi Kunio|missing person]]. Answered that Mike is inquisitve for asking about this, but he can't reveal personal info on his patients, but there was a person who was missing due to mysterious circumstances; the police has looked for him and searched his house, but they could not find anything. Said that his granddaughter was somewhat scared of him. Said that the person was unusual. Said that he prefers not to talk about people behind their back.
 
 
+On Session 11, [[Mike Bequith|Mike]] visited him said what he saw. Ran quick check on neural implant, which gives no info.

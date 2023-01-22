@@ -5,10 +5,10 @@ Check in at 9. Check in at 11 to tell them to go to bed.
 Participants:
 - [[Fujiwara Toma]]
 - [[Kagamihara Arato|Kagamihara-kun]]
-- [[Sandal Girl]]
+- [[Takanashi Mamiko]]
 - [[Kotobuke Hannah]]
 
-When [[Tadashi Hamada]] visited, [[Sandal Girl]] answered the door and seemed surprised, but then said that everything is okay.
+When [[Tadashi Hamada]] visited, [[Takanashi Mamiko]] answered the door and seemed surprised, but then said that everything is okay.
 Heard arguments about what temperature to set the microwave to so it doesn't explode.
 Talking about popcorn package, it is not in English but in Latin language.
 

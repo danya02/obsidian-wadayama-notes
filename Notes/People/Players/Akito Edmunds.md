@@ -19,7 +19,10 @@ As of Third night, has 1 Wound. Reset by start of Session 7.
 
 Gave 50Y to [[Nakamura Kotoha]].
 
-On Session 10, met client, 30 years with 70s style mustache. Got kimono to repair.
+On Session 10, met client, 30 years with 70s style mustache. Got kimono to repair. 
+
+On Session 11, bought shovel for 10Y.
+
 
 
 

@@ -9,4 +9,5 @@ She roughly told Yarik to get lost, then asked the [[Inoue|Bartender]] for anoth
 
 Ordered a package with unknown contents from Sony.
 
-Said that she works for some company in Osaka.
+[[Kotobuke Hannah]] said that she works for some company in Osaka.
+

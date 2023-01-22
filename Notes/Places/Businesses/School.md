@@ -20,7 +20,7 @@ Probably [[Kagamihara Arato|Kagamihara-kun]], [[Kotobuke Hannah]], [[Fujiwara To
 
 At gate, saw a guard booth with a man over 60 in semi-formal clothes. Told him I'm looking to enroll in the school. He says the only one there is the math teacher.
 
-Saw [[Fujiwara Toma]] and [[Sandal Girl]] and [[Liao Tingni]]. Guard says if teacher is running late, they say Mr [[Nakamura Hayato]] is indeed running late.
+Saw [[Fujiwara Toma]] and [[Takanashi Mamiko]] and [[Liao Tingni]]. Guard says if teacher is running late, they say Mr [[Nakamura Hayato]] is indeed running late.
 The children are copying some of the homework from each other.
 
 Asked the children how do they like the school; they say "OK".

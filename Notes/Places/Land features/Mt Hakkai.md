@@ -21,7 +21,7 @@ Mike went next to them and said something about the goodness of living in the mo
 
 Waited there then heard people coming up the steps. There is a boy and girl voice. These are 5th year students.
 It seems that the [[Fujiwara Toma]] is a stereotypical "nerd", even if we do not refer to people like that: thin, clumsily moves, light-blue kimono with dragonfly pattern and boots, he holds an old e-reader of 14 inches;
-the [[Sandal Girl]] has wooden sandals, maybe modified to sound louder, and a well-made kimono whose quality looks higher than needed.
+the [[Takanashi Mamiko]] has wooden sandals, maybe modified to sound louder, and a well-made kimono whose quality looks higher than needed.
 
 She said that [[Kotobuke Hannah]] isn't going to the mountain with them, and she doesn't want to go to the forest unlike last time.
 
