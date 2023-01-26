@@ -4,71 +4,77 @@
     "type": "split",
     "children": [
       {
-        "id": "f51cd5daba01144d",
+        "id": "4f5c410ba2c9e4a1",
         "type": "split",
         "children": [
           {
-            "id": "1279e7111046d35e",
+            "id": "5a212203e36fd62e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "42076e0ce7ad14cf",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "options": {
+                      "collapse-filter": false,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": false,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": false,
+                      "showArrow": true,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.6989606412938202,
+                      "close": true
+                    }
+                  }
+                }
+              },
+              {
+                "id": "6b3ea87693587340",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "9de1d0066092f93a",
             "type": "split",
             "children": [
               {
-                "id": "e4583b54667e0d47",
+                "id": "0a3ee6697c14cb2f",
                 "type": "tabs",
                 "children": [
                   {
-                    "id": "fb6f646dbe8587e3",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "People/At Center of town/Kagamihara Arato.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
-                  },
-                  {
-                    "id": "df6688babc1063c0",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "People/At South of town/Nakamura Kotoha.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
-                  },
-                  {
-                    "id": "178b32d80adc3b6c",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Times/Session 10.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
-                  }
-                ]
-              },
-              {
-                "id": "5a212203e36fd62e",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "42076e0ce7ad14cf",
+                    "id": "4543c6569645942c",
                     "type": "leaf",
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "People/At Center of town/Kagamihara Arato.md",
                         "options": {
                           "collapse-filter": false,
                           "search": "",
                           "localJumps": 1,
-                          "localBacklinks": true,
+                          "localBacklinks": false,
                           "localForelinks": true,
                           "localInterlinks": false,
                           "showTags": false,
@@ -86,57 +92,59 @@
                           "repelStrength": 10,
                           "linkStrength": 1,
                           "linkDistance": 250,
-                          "scale": 0.9999999999999961,
+                          "scale": 0.6989606412938202,
                           "close": true
                         }
                       }
                     }
-                  },
+                  }
+                ]
+              },
+              {
+                "id": "8b4c0633036f29e7",
+                "type": "tabs",
+                "children": [
                   {
-                    "id": "450a04fde44f3314",
+                    "id": "c54e3a03b3fe3501",
                     "type": "leaf",
                     "state": {
-                      "type": "markdown",
+                      "type": "localgraph",
                       "state": {
-                        "file": "People/At South of town/Kotobuke Hannah.md",
-                        "mode": "source",
-                        "source": false
+                        "options": {
+                          "collapse-filter": false,
+                          "search": "",
+                          "localJumps": 1,
+                          "localBacklinks": true,
+                          "localForelinks": false,
+                          "localInterlinks": false,
+                          "showTags": false,
+                          "showAttachments": false,
+                          "hideUnresolved": false,
+                          "collapse-color-groups": true,
+                          "colorGroups": [],
+                          "collapse-display": false,
+                          "showArrow": true,
+                          "textFadeMultiplier": 0,
+                          "nodeSizeMultiplier": 1,
+                          "lineSizeMultiplier": 1,
+                          "collapse-forces": true,
+                          "centerStrength": 0.518713248970312,
+                          "repelStrength": 10,
+                          "linkStrength": 1,
+                          "linkDistance": 250,
+                          "scale": 0.6989606412938214,
+                          "close": true
+                        }
                       }
                     }
                   }
                 ]
               }
             ],
-            "direction": "vertical"
-          },
-          {
-            "id": "2c417e8a804841bf",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "36fadea7cebb9994",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {}
-                }
-              },
-              {
-                "id": "72eeb38802653bd7",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "People/At Camping Site/Kagamihara Yuma.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
+            "direction": "horizontal"
           }
         ],
-        "direction": "horizontal"
+        "direction": "vertical"
       }
     ],
     "direction": "vertical"
@@ -194,7 +202,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/At Center of town/Kagamihara Arato.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +218,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/At Center of town/Kagamihara Arato.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -258,9 +264,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "graph:Open graph view": false,
       "juggl:Juggl global graph": false,
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
@@ -268,17 +274,17 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "fb6f646dbe8587e3",
+  "active": "6b3ea87693587340",
   "lastOpenFiles": [
-    "People/At Camping Site/Kagamihara Yuma.md",
-    "People/Strange communicator.md",
-    "People/Nobuske.md",
-    "Times/City Council Meeting 241.md",
-    "Times/Festival.md",
-    "People/At South of town/Nakamura Kotoha.md",
-    "Places/Businesses/Camping site.md",
-    "People/Unknown/Liao Tingni.md",
-    "Meta/Inari.md",
-    "Meta/Other group.md"
+    "People/Unknown/Matsuishi Kunio.md",
+    "Times/Session 12.md",
+    "Times/Session 11.md",
+    "Times/Session 10.md",
+    "Times/Session 9.md",
+    "Times/Session 8.md",
+    "Times/Session 7.md",
+    "Times/Session 6.md",
+    "Times/Session 5.md",
+    "Times/Session 4.md"
   ]
 }

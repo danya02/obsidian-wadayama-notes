@@ -8,6 +8,7 @@ The name is Ibuki and the surname is Takanashi.
 Male, 71 years old.
 Works at the [[Hospital]].
 
+
 Mike tries to enter the office.
 The doctor seems to be talking to a child, Mamiko.
 Asking if mom came home (which she did but was late).

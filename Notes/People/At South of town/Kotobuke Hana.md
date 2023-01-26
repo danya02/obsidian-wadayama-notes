@@ -6,6 +6,7 @@ dwelling: [[Kotobuke residence]]
 
 #schoolchild 
 
+The name is Hana and the surname is Kotobuke.
 
 Child of [[Kotobuke Ena]].
 
@@ -21,9 +22,9 @@ Had sleepover at [[Kids' Party]]'s location.
 There was a strong rain, and Ena let her go on her own.
 She went to the forest instead, and she planned to go there from the start.
 Got lost in the forest.
-Went from [[Camping site]], then halfway to [[Shrine]] went north.
+Went from `Camping site`, then halfway to `Shrine` went north.
 Slipped and rolled down the cliff.
-Thankfully [[Mamiko]] covered for her and cleaned clothes.
+Thankfully [[Takanashi Mamiko]] covered for her and cleaned clothes.
 ==Down the cliff she saw a dead man.==
 She should have reported this to the police, but her mom wouldn't have approved.
 Please tell the police in a way that Ena doesn't get angry.

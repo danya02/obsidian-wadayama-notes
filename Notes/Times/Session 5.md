@@ -4,6 +4,8 @@ after: [[Session 4]]
 ---
 
 Session date: 13.11.2022
-Path: [[Library]] -> [[Police station]] -> [[Igarashi Mansion]] -> [[Town south]]
+Path: `Library` -> `Police station` -> `Igarashi Mansion` -> `Town south`
 Time ended: 16:30
-Plans for future sessions: investigate [[Knife Assault]]
+Plans for future sessions: investigate `Knife Assault`
+
+Previous is [[Session 4]]. Next is [[Session 6]].

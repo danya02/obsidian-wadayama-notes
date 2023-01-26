@@ -4,6 +4,7 @@ dwelling: [[Apartment]]
 ---
 #player 
 
+
 Wears a biker jacket and LEDs.
 Is some kind of visual artist. 
 

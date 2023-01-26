@@ -5,7 +5,7 @@ is_at: [[Matsuishi residence]]
 
 Paper notebook of 30 pages, 15 of those have untidy handwriting. Looks like a diary with no dates.
 
-> “How long has it been since we first met? Half a year? With all those revelations time has slowed to a crawl. The [[Kamada Itsuke|mayor]]… and then that old man [[Nobuske]]. I could not even imagine living next to such horrible people.”
+> “How long has it been since we first met? Half a year? With all those revelations time has slowed to a crawl. The [[Kamado Itsuki|mayor]]… and then that old man [[Nobusuke]]. I could not even imagine living next to such horrible people.”
 > 
 > “Bring 1580 yen in cash, leave any electronics at home.”
 > 

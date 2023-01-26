@@ -2,10 +2,12 @@
 dwelling: [[Nakamura Residence]]
 ---
 
+The name is Kotoha and the surname is Nakamura.
+
 Woodworker.
 
 Older brother is [[Nakamura Hayato]].
-Younger brother is [[Nakamura Ichiro]].
+Younger brother is [[Nakamura Ichirou]].
 
 Quickly telling [[Nakamura Hayato]] about woodworking tips, he ignores her.
 

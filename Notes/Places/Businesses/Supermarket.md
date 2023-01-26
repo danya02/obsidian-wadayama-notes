@@ -4,11 +4,11 @@ alias: ["K-Green"]
 
 [[Takeda Yuno]] is here.
 
-Sometimes has orders delivered to it. [[Nobuske]] has asked us to get his order from it.
+Sometimes has orders delivered to it. `Nobusuke` has asked us to get his order from it.
 
 Chain supermarket of an unknown chain.
 
-On First day, saw [[Martin]] there.
+On First day, saw [[Clyburn Martin]] there.
 
 On Third day, shopkeeper passed a box to the [[Kotobuke Ena]] that is the size of a tablet but slightly thicker. Box has no postal markings. Woman chats with shopkeeper friendly. When takes box, looks pleased, but maybe slightly sinister look. Exits and goes south.
 

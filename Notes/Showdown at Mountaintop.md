@@ -1,4 +1,11 @@
-[[Akito Edmunds]], [[Mike Bequith|Mike]] and [[Tadashi Hamada|Yarik]] battle [[Strange communicator]], as she attacks [[Nobuske]].
+
+We received a call from [[Nobusuke]], where he told us that "those bastards are chasing me up the mountain". When we arrived, we saw him backing into a bush  away from the [[Spirit of Wadayama]], holding a sword and wearing a [[Fox masks]]. She does not turn her head and says "go away and forget what you saw here", while Nobuske says "I'm going to be killed, do something!".
+
+Has [[Inoue Kyoko]]'s hairstyle and matching height. We say "why are you doing this, Kyoko?" and hear male voice response using old Japanese with speaker built into clothes, "the followers of the old ronin should save themselves lest they suffer the same fate".
+
+[[Tadashi Hamada|Yarik]] begins to approach while saying "please think about what you're doing", but is ignored as Kyoko raises the sword to strike. 
+
+[[Akito Edmunds]], [[Mike Bequith|Mike]] and [[Tadashi Hamada|Yarik]] battle [[Inoue Kyoko]] and the [[Spirit of Wadayama]], as she attacks [[Nobusuke]].
 
 Turn 1: Enemy -> Yarik[Q] -> Mike[8] -> Dan[3] -> Nobuske
 She hits him twice, drawing blood.

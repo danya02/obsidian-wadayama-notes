@@ -4,8 +4,10 @@ after: [[Session 2]]
 ---
 
 Session date: 07.10.2022
-Path: [[Camping site]] -> [[Mt Hakkai]] -> [[Library]] -> [[Mayor's Office]] -> [[Library]] -> branch
+Path: `Camping site` -> [[Mt Hakkai]] -> `Library` -> `Mayor's Office` -> `Library` -> branch
 B1 -> [[Igarashi Mansion]]
-B2 -> [[Kamada Residence]] -> [[Matsuishi residence]]
+B2 -> `Kamado Residence` -> [[Matsuishi residence]]
 Time ended: 7PM
 Plans for future sessions: discover cliffhanger item
+
+Previous is [[Session 2]]. Next is [[Session 4]].

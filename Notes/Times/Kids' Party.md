@@ -6,18 +6,18 @@ Participants:
 - [[Fujiwara Toma]]
 - [[Kagamihara Arato|Kagamihara-kun]]
 - [[Takanashi Mamiko]]
-- [[Kotobuke Hannah]]
+- [[Kotobuke Hana]]
 
 When [[Tadashi Hamada]] visited, [[Takanashi Mamiko]] answered the door and seemed surprised, but then said that everything is okay.
 Heard arguments about what temperature to set the microwave to so it doesn't explode.
 Talking about popcorn package, it is not in English but in Latin language.
 
-[[Kotobuke Hannah]] offered Yarik to play a level of [Celeste](https://store.steampowered.com/app/504230/Celeste).
+[[Kotobuke Hana]] offered Yarik to play a level of [Celeste](https://store.steampowered.com/app/504230/Celeste).
 Couldn't do it easily, but the kids were happy looking at this.
 
-Talking about the [[Festival]], they said that they should go to [[Mt Hakkai|Mountaintop]]. There's a cliff you should not fall off and into the forest, but it's
+Talking about the Festival, they said that they should go to `Mt Hakkai|Mountaintop`. There's a cliff you should not fall off and into the forest.
 
-[[Kotobuke Hannah]] does not like talking about the forest.
+[[Kotobuke Hana]] does not like talking about the forest.
 
 Yarik draws an image of them.
 

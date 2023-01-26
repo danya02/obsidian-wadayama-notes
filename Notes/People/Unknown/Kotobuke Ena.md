@@ -5,11 +5,11 @@ About 30, pale skin, wearing the 2030s styled biker-styled clothes. Has a glass 
 She has a bespoke smartglasses, not a luxury item but rather a power user item.
 
 She doesn't want to talk to us, or to anyone it seems.
-She roughly told Yarik to get lost, then asked the [[Inoue|Bartender]] for another whiskey in a well-meaning tone of voice.
+She roughly told Yarik to get lost, then asked the [[Inoue Kaede|Bartender]] for another whiskey in a well-meaning tone of voice.
 
 Ordered a package with unknown contents from Sony.
 
-[[Kotobuke Hannah]] said that she works for some company in Osaka.
+[[Kotobuke Hana]] said that she works for some company in Osaka.
 
 On Session 12, [[Mike Bequith|Mike]] visited their house, the [[Kotobuke Residence]]. She recognizes him. He tells him that he wants part of the scale, which she bought -- she asks who told her that, then "[[Takeda Yuno|Supermarket Shopkeeper]]'s talkativeness should be directed to better ends". Leaves house, wearing home clothes; inside house is dark.
 

@@ -3,7 +3,7 @@ alias: ["cyberpsycho"]
 ---
 
 
-==Provisional name. Does not have official name.==
+Provisional name. Does not have official name.
 
 
 A supposed phenomenon whereby a person with a [[Neurocalibrator]] or other kind of neural implant becomes violent because of it.
@@ -16,4 +16,8 @@ I remember some news story about someone going cyberpsycho and attacking someone
 
 There is also a TV show whose plot is about this.
 
-Regardless of reality, there is no public record of any neural implant-related violence in [[Wadayama]]. However, the police sheriff said that this is a repeat occurrence (???).
+Regardless of reality, there is no public record of any neural implant-related violence in [[Wadayama]]. 
+
+
+It is however true that people can be influenced to do certain things, if their convictions match this.
+This is what happened to [[Matsuishi Kunio]] and [[Inoue Kyoko]].

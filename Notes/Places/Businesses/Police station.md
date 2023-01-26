@@ -14,4 +14,4 @@ Found old footsteps, and led them following the path.
 Said that when they were younger, the forest was much less difficult to traverse.
 Said that he missed it, returned to where he went,
 and then said that he saw something strange,
-then heard reply, and saw [[Strange communicator]], describing in detail has kimono and fox mask and katana. Before, said that this could be a tourist, but afterwards looked like they don't believe it. Collected some details and also asked him if he was okay: if Mike feels unwell, they offer to lead him to [[Hospital]], where he accepts going.
+then heard reply, and saw [[Spirit of Wadayama]], describing in detail has kimono and fox mask and katana. Before, said that this could be a tourist, but afterwards looked like they don't believe it. Collected some details and also asked him if he was okay: if Mike feels unwell, they offer to lead him to [[Hospital]], where he accepts going.

@@ -3,6 +3,7 @@ alias: ["Arato", "Kagamihara-kun"]
 parent: [[Kagamihara Yuma]]
 ---
 #schoolchild
+The name is Arato and the surname is Igarashi.
 
 6th year student, has upcoming exams.
 
@@ -14,7 +15,7 @@ Yarik tells him that [[Takanashi Mamiko]] is interested in him. He responds that
 
 He said that he doesn't know what she likes or how to get her interested. Yarik says that she is already interested in him so it doesn't matter what he might say. It seems that he's reached a conclusion, and after that he solves math tasks worse than usual.
 
-Asked about [[Matsuishi Kunio]]. He said that he hasn't met him, refers to Mamiko. People didn't like to talk about him so he doesn't know.
+Asked about `Matsuishi Kunio`. He said that he hasn't met him, defers to `Takanashi Mamiko`. People didn't like to talk about him so he doesn't know.
 
 On [[Session 7]], was in [[Library]] with [[Takanashi Mamiko]]. Later, we followed them to [[Mt Hakkai|Mountaintop]], where they had a love confession scene.
 

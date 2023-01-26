@@ -1,6 +1,6 @@
 #utility_consumed
 
-Was posted outside the [[Mayor's Office]] but taken down by the [[Old Lady]] on the [[Session 2|First evening]]
+Was posted outside the [[Mayor's Office]] but taken down by a resident on the [[Session 2|First evening]]
 
 Went missing 1 year + 1 month ago
 [[Matsuishi Kunio]]

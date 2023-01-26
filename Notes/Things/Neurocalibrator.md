@@ -14,6 +14,6 @@ Maximum they can do normally is make a person like or dislike something or have 
 **No clear answer on whether it can cause visions. Even if it could, doing it would require a  powerful computer, some kind of and multiple visits to program the device, which would have to be voluntary.**
 
 People who have them:
-- [[Kyoko]]
+- [[Inoue Kyoko]]
 - [[Matsuishi Kunio]] (from notes and conversation with doctor)
 - [[Stabbing Assailant]]

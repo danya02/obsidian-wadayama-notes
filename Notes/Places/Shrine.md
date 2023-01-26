@@ -20,6 +20,7 @@ I notice a weak smell of incense from the main entrance of the shrine.
 There is a barely-noticeable path to the back of the shrine.
 On the back side of this there is a laminated photo of an about 20-year-old man, maybe student-aged with a very sad face, wearing an inconspicuous neo-traditional.
 Incense is usually used when a person has died.
+This turns out to be [[Yamaguchi Haruto]].
 
 
 Visited on [[Session 8]]. On the road, saw a spotted wild boar.
@@ -46,21 +47,21 @@ Voice responds "I don't like pointless bloodshed in sacred mountains, you should
 Says "someone clearly wants to kill me, for why if one of my goals is the [[Festival]]"
 Hearing "you people do many vile things for your (lord), but this is your last warning: leave this forest, and maybe this city, and do not interfere. I know everything about you, you cannot hide from the protector spirit of the city"
 Says "why did you decide that we do this for our (lord) because it is our own desire, if you know so much then you must know it's an honest desire"
-"I saw you with [[Nobuske]] here, do not think that fog and bamboo can hide your speeches from me. Go back the way you came."
+"I saw you with [[Nobusuke]] here, do not think that fog and bamboo can hide your speeches from me. Go back the way you came."
 Saw a figure in a large kimono that hides form, but seems female. Has [[Fox masks]] of lacquered wood. Voice saying "go while the spirits are well-meaning" coming from the mask.
 Figure is neither tall nor short.
 Has half-antique sword holstered in belt.
 From behind the collar to the neck, saw a computer cable.
 
-As he goes out to the shrine's clearing, says "wonder what [[Kotobuke Ena]] is doing".
+As he goes out to the shrine's clearing, says "wonder what `Kotobuke Ena` is doing".
 
-On Session 11, went into the forest at the place where [[Kotobuke Hannah]] went. Received angry message "the weasels are here again" on Mike's smartglasses. Rebooted and got same message again.
+On Session 11, went into the forest at the place where [[Kotobuke Hana]] went. Received angry message "the weasels are here again" on Mike's smartglasses. Rebooted and got same message again.
 
 Mike had trouble going through the forest and got Bruises.
 Went into ravine, which is safe to descend into at one point, but becomes vertical later on.
 In ravine, saw [[Matsuishi Kunio]]'s corpse, wearing pyjamas and rusted neural implant. Seems that he fell in from a high place.
 
-Also got message "stop or you will get retribution", then "that's it, the wrath of the city will come on you as for [[Nobuske]]" (as we went into the forest for about 10 minutes).
+Also got message "stop or you will get retribution", then "that's it, the wrath of the city will come on you as for [[Nobusuke]]" (as we went into the forest for about 10 minutes).
 When next to corpse, typed "are you responsible for this?" (which happened 20 minutes after that), got no response.
 
 Matsuishi has one slipper, european pyjamas, and a normal key on a keychain in the shape of a fox head. Taken.

@@ -19,7 +19,7 @@ Nevertheless, it would be strange if the neurocalibrator were at fault.
 
 The neurocalibrator can shift emotions, but for that, the owner has to connect it to something.
 
-Said that Matsuishi said the fox said that one of the citizens is very bad, so it told him to make a plan to "get rid of him". *We informed him that it was [[Nobuske]].*
+Said that Matsuishi said the fox said that one of the citizens is very bad, so it told him to make a plan to "get rid of him". *We informed him that it was [[Nobusuke]].*
 Matsuishi was scheduled to visit the [[Hospital]] to check the neurocalibrator when the neural implant machine was first installed.
 
 Is aware of some of [[Matsuishi's Notebook]]'s contents. 
